@@ -49,8 +49,8 @@ START: New Lead/Property Identified
   - [[Seller Finance Pitch 19 - Impossible Terms to Best Terms]] — Restructures down payment/term/rate to match rent; handles agent commission.
   - [[Seller Finance Pitch 23 - Offering 100k Above Asking]] — Trades higher price for tax deferral and security (deed‑in‑lieu/trustee).
 - MEDIUM — Privacy concerns → Trust Acquisition:
-  - [[Trust Acquisition Pitch 5 - Pivoting from Cash to Trust]] — Pivots from cash; frames trust to mitigate due‑on‑sale risk and preserve privacy.
-  - [[Voicemail - Subject to & Trust]] — Voicemail framing trust alternative to sub‑to; converts negative equity into seller net gain.
+  - `Trust Acquisition Pitch 5 - Pivoting from Cash to Trust` *(transcript not yet in vault)* — Pivots from cash; frames trust to mitigate due‑on‑sale risk and preserve privacy.
+  - `Voicemail - Subject to & Trust` *(transcript not yet in vault)* — Voicemail framing trust alternative to sub‑to; converts negative equity into seller net gain.
 - LOW — Sophisticated seller (free & clear) → Seller Finance primary:
   - [[Seller Finance Pitch 13 - 1.7m Dollar Multifam]] — Commercial SF; down‑payment vs price trade; balloon preference.
 - HIGH — Foreclosure/timeline pressure → Urgent Cash Offer:
@@ -95,9 +95,9 @@ START: New Lead/Property Identified
 - MODERATE equity — Creative financing (Seller Finance):
   - [[Seller Finance Pitch 19 - Impossible Terms to Best Terms]] — Iterative term restructuring to affordability.
 - MODERATE equity — Privacy concerns (Trust Acquisition):
-  - [[Trust Acquisition Pitch 5 - Pivoting from Cash to Trust]] — Privacy-first trust structure; due-on-sale risk mitigation.
+  - `Trust Acquisition Pitch 5 - Pivoting from Cash to Trust` *(transcript not yet in vault)* — Privacy-first trust structure; due-on-sale risk mitigation.
 - LOW equity — Creative solutions only:
-  - [[Voicemail - Subject to & Trust]] — Trust-based takeover to avoid due-on-sale; turns seller loss into gain.
+  - `Voicemail - Subject to & Trust` *(transcript not yet in vault)* — Trust-based takeover to avoid due-on-sale; turns seller loss into gain.
 - LOW equity — Seller finance by trading price for terms:
   - [[Seller Finance Pitch 23 - Offering 100k Above Asking]] — Raises price for favorable terms; tax deferral focus.
 - LOW equity — Subject-to possible (limited):
