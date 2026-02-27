@@ -8,11 +8,11 @@ related_playbooks: [[[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 1.txt
 created: 2025-10-16
 
-demonstrates_technique: "Trust Privacy Framing"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trust Acquisition to Double Seller Equity on VA Loan Property"
+objections_handled: ["VA loan assumption concern", "Property been on market 90 days"]
+seller_profile: "Seller with VA loan, low equity, property stale on market 90 days"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Offered to double seller equity by paying current equity as down payment + additional windfall at balloon, avoiding VA loan assumption complications via trust structure"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 1.mp3"
 ---

@@ -9,11 +9,11 @@ related_playbooks: [[[subject_to_playbook]], [[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 3 - Playing Dumb About Subject To.txt
 created: 2025-10-16
 
-demonstrates_technique: "Mortgage Payment Takeover"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Playing Dumb About Subject-To to Introduce Trust Structure"
+objections_handled: ["Agent already getting subject-to calls", "Due-on-sale clause concern", "Seller needs equity"]
+seller_profile: "Agent who has received multiple subject-to calls, skeptical of creative finance"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Feigned ignorance about subject-to to get agent to explain objections, then introduced trust structure as superior alternative addressing all concerns"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 3 - Playing Dumb About Subject To.mp3"
 ---

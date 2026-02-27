@@ -8,11 +8,11 @@ related_playbooks: [[[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 7.txt
 created: 2025-10-16
 
-demonstrates_technique: "Trust Privacy Framing"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trust Acquisition via Brokerage Transfer - HOA Rental Check"
+objections_handled: ["HOA rental restrictions concern"]
+seller_profile: "Agent at brokerage, property in HOA community"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Used HOA rental question as entry point to build rapport before introducing trust acquisition structure"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 7.mp3"
 ---

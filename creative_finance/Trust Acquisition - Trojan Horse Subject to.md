@@ -9,11 +9,11 @@ related_playbooks: [[[subject_to_playbook]], [[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition - Trojan Horse Subject to.txt
 created: 2025-10-16
 
-demonstrates_technique: "Mortgage Payment Takeover"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trojan Horse 1031 Exchange Approach to Trust Acquisition"
+objections_handled: ["Agent unfamiliar with trust acquisition", "Due-on-sale concern"]
+seller_profile: "Agent representing property near 1031 exchange capital gains figure"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Entered as 1031 exchange buyer (Trojan Horse), then pivoted to trust acquisition structure to avoid due-on-sale while offering full commission"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition - Trojan Horse Subject to.mp3"
 ---

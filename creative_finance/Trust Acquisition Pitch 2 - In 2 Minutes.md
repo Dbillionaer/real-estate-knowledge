@@ -9,11 +9,11 @@ related_playbooks: [[[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 2 - In 2 Minutes.txt
 created: 2025-10-16
 
-demonstrates_technique: "Trust Privacy Framing"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trust Acquisition via Garn-St. Germain Act - 2 Minute Pitch"
+objections_handled: ["Seller wants cash out", "Due-on-sale clause concern", "Seller still liable for mortgage"]
+seller_profile: "Agent representing seller who wants cash out, not mortgage takeover"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Delivered complete trust acquisition pitch in 2 minutes; used Garn-St. Germain Act reference to legitimize structure and eliminate due-on-sale risk"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 2 - In 2 Minutes.mp3"
 ---

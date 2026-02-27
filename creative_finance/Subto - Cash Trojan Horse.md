@@ -9,11 +9,11 @@ related_playbooks: [[[subject_to_playbook]]]
 source_file: transcripts/mortgage/Subto - Cash Trojan Horse.txt
 created: 2025-10-16
 
-demonstrates_technique: "Mortgage Payment Takeover"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trojan Horse Cash Buyer Approach to Subject-To"
+objections_handled: ["Seller not negotiable on price", "Agent skeptical of investor intent"]
+seller_profile: "Agent representing turn-of-century home with cottage, skeptical of investor buyers"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Entered as conventional loan buyer (Trojan Horse), built rapport on property details before pivoting to creative terms"
 
 audio_source: "../../mortgagetakeoverrec/Subto - Cash Trojan Horse.mp3"
 ---

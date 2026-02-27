@@ -8,11 +8,11 @@ related_playbooks: [[[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 4 - High Cashflowing Property.txt
 created: 2025-10-16
 
-demonstrates_technique: "Trust Privacy Framing"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trust Acquisition via Three-Way Agent Call with Referral Agent"
+objections_handled: ["Multiple agents involved", "Referral agent needs to be included"]
+seller_profile: "High cash-flowing property with two agents (listing agent + referral agent who knows sellers)"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Managed three-way call with listing agent and referral agent; used referral relationship to build trust for trust acquisition structure"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 4 - High Cashflowing Property.mp3"
 ---

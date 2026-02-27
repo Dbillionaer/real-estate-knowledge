@@ -8,11 +8,11 @@ related_playbooks: [[[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 6.txt
 created: 2025-10-16
 
-demonstrates_technique: "Trust Privacy Framing"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trust Acquisition as Due-On-Sale-Safe Alternative to Subject-To"
+objections_handled: ["Due-on-sale clause concern", "Seller liability concern"]
+seller_profile: "Agent representing property listed close to mortgage balance, aware of subject-to calls"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Differentiated trust acquisition from subject-to by emphasizing due-on-sale protection; positioned as bulletproof deal for seller"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 6.mp3"
 ---

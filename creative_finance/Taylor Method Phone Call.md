@@ -8,11 +8,11 @@ tags: [#transcript, #creative-finance, #creative-finance]
 source_file: transcripts/mortgage/Taylor Method Phone Call.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Taylor Method - TOM Status Negotiation for Off-Market Appearance"
+objections_handled: ["Price too low", "Inspection period too long"]
+seller_profile: "Agent representing seller with firm bottom-line price, open to timeline adjustments"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Offered above initial price (25K vs 10K) in exchange for Temporarily Off Market status to satisfy internal quota requirements"
 
 audio_source: "../../mortgagetakeoverrec/Taylor Method Phone Call.mp3"
 ---

@@ -8,11 +8,11 @@ related_playbooks: [[[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 8.txt
 created: 2025-10-16
 
-demonstrates_technique: "Trust Privacy Framing"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trust Acquisition on Duplex with Short-Term Rental History"
+objections_handled: ["Tenant in place with lease", "Short-term rental income concern"]
+seller_profile: "Agent representing duplex owner with mixed long-term/short-term rental history"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Gathered detailed rental income data on duplex to structure trust acquisition terms matching seller income needs"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 8.mp3"
 ---

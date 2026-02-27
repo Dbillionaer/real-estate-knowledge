@@ -8,11 +8,11 @@ related_playbooks: [[[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 9 - Explaining The Process.txt
 created: 2025-10-16
 
-demonstrates_technique: "Trust Privacy Framing"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Trust Acquisition Process Explanation - Low Equity Near-Underwater Property"
+objections_handled: ["Agent unfamiliar with debt takeover process", "Seller has minimal equity"]
+seller_profile: "Agent representing near-underwater property in DC (50K ask, 25K loan)"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Explained all 5 debt takeover methods (lease option, wrap, assumption, sub-to, trust) to educate agent; focused on 3% rate capture as primary motivation"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 9 - Explaining The Process.mp3"
 ---

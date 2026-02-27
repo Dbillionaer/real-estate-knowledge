@@ -9,11 +9,11 @@ related_playbooks: [[[trust_acquisition_playbook]]]
 source_file: transcripts/mortgage/Trust Acquisition Pitch 5 - Pivoting from Cash to Trust.txt
 created: 2025-10-16
 
-demonstrates_technique: "Trust Privacy Framing"
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Pivoting from Cash/Section 8 Buyer to Trust Acquisition"
+objections_handled: ["Tenant in property limiting photos", "Property needs interior work"]
+seller_profile: "Agent representing tenant-occupied property in Florida, limited photos available"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Entered as Section 8 rental buyer, built rapport on property details, then pivoted to trust acquisition structure to capture low interest rate"
 
 audio_source: "../../mortgagetakeoverrec/Trust Acquisition Pitch 5 - Pivoting from Cash to Trust.mp3"
 ---
