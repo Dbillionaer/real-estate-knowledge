@@ -37,3 +37,6 @@ desktop.ini
 # agent-lessons/
 # market-data/
 # buyer-profiles/
+
+# Wholesaile repo patch files (belong in wholesaile repo, not here)
+wholesaile-workspace-patch/
