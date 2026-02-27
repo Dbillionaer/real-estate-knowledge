@@ -8,11 +8,11 @@ related_playbooks: [[[Hybrid_Deals_Playbook]]]
 source_file: transcripts/mortgage/Hybrid - Explaining a Hybrid Deal.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Hybrid Deal Explanation - Educational Pitch"
+objections_handled: ["Unfamiliar with hybrid deal structure", "Confused about cash vs seller finance split"]
+seller_profile: "Property owner unfamiliar with creative finance structures"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Clear step-by-step explanation of hybrid deal mechanics made complex structure accessible to seller"
 
 audio_source: "../../mortgagetakeoverrec/Hybrid - Explaining a Hybrid Deal.mp3"
 ---

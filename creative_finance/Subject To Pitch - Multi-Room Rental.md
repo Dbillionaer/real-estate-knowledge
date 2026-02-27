@@ -1,22 +1,22 @@
 ---
-title: "0e78ebb0-514e-11f0-867b-612231b6f9af"
+title: "Subject To Pitch - Multi-Room Rental"
 type: transcript
 category: Creative Finance
-strategies: [Creative Finance]
-tags: [#transcript, #creative-finance, #creative-finance]
+strategies: [Subject-To]
+tags: [#transcript, #subjectto, #creative-finance]
 source_file: transcripts/mortgage/0e78ebb0-514e-11f0-867b-612231b6f9af.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Subject-To on Multi-Room Rental Property"
+objections_handled: ["Rental income concern", "Room-by-room rental structure"]
+seller_profile: "Multi-room rental property owner with engineer tenants, seasonal rental model"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Gathered detailed rental income data ($4,900-$5,600/month) to structure subject-to terms matching seller's income needs"
 
 audio_source: "../../mortgagetakeoverrec/0e78ebb0-514e-11f0-867b-612231b6f9af.mp3"
 ---
 
-# 0e78ebb0-514e-11f0-867b-612231b6f9af
+# Subject To Pitch - Multi-Room Rental
 
 ## Call Details
 

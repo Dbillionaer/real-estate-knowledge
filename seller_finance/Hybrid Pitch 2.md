@@ -8,11 +8,11 @@ related_playbooks: [[[Hybrid_Deals_Playbook]]]
 source_file: transcripts/sellerfinance/Hybrid Pitch 2.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Hybrid Deal Structure with Cash and Seller Finance Components"
+objections_handled: ["Needs cash component", "Concerned about monthly payment reliability"]
+seller_profile: "Property owner needing both immediate cash and ongoing income"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Balanced hybrid structure addressing both immediate cash need and long-term income desire"
 
 audio_source: "../../sellerfinancerecordings/Hybrid Pitch 2.mp3"
 ---

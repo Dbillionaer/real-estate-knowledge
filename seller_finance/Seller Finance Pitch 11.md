@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 11.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Over-Asking Seller Finance Pitch with Leaseback Option"
+objections_handled: ["Doesn't want to move in December", "Needs time to find new place"]
+seller_profile: "House-hacking owner-occupant in duplex, needs time to relocate"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Offered $1M (above $900K ask) and offered leaseback option to solve seller's relocation timing concern"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 11.mp3"
 ---

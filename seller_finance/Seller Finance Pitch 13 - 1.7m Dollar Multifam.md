@@ -9,11 +9,11 @@ tags: [#transcript, #seller-finance, #seller-finance]
 related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 13 - 1.7m Dollar Multifam.txt
 created: 2025-10-16
-demonstrates_technique: "Large Down Payment Trade-Offs (Commercial SF)"
-objections_handled: ["High down payment requirement", "Balloon preference", "Fund investment timing"]
-seller_profile: "Commercial multifamily owner (8 units), fully occupied"
+demonstrates_technique: "High-Value Multifamily Seller Finance with Tax Deferral Focus"
+objections_handled: ["High asking price", "Capital gains concern"]
+seller_profile: "Multifamily property owner, sophisticated investor concerned about tax implications"
 outcome: "follow-up"
-key_success_factor: "Framed price vs down payment trade and aligned with seller's investment timing"
+key_success_factor: "Leveraged tax deferral and installment sale benefits to justify seller finance on $1.7M multifamily"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 13 - 1.7m Dollar Multifam.mp3"
 ---

@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 24.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance in First Lien Position on Free-and-Clear Property"
+objections_handled: ["Competing offer wants seller in second position", "Multiple competing offers"]
+seller_profile: "Agent representing free-and-clear property owner with multiple seller finance offers"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Differentiated from competing offer by offering first lien position (not subordinate); explained refinance risk of competitor's structure"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 24.mp3"
 ---

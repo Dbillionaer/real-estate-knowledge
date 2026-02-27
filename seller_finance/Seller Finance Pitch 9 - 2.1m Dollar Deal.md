@@ -9,11 +9,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 9 - 2.1m Dollar Deal.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Multi-Property Portfolio Seller Finance with Hedge Fund Comparison"
+objections_handled: ["Seller wants large down payment ($1.1M)", "Package deal requirement", "Hedge fund buyer preference"]
+seller_profile: "Intermediary marketing 4-property portfolio for investor partner"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Pivoted from hedge fund buyer to seller finance; explained 20% down comparison to justify lower down payment on $2.1M portfolio"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 9 - 2.1m Dollar Deal.mp3"
 ---

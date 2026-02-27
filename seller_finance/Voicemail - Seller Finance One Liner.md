@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Voicemail - Seller Finance One Liner.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
+demonstrates_technique: "Seller Finance Voicemail One-Liner"
 objections_handled: []
-seller_profile: ""
-outcome: "follow-up"
-key_success_factor: ""
+seller_profile: "Property owner (voicemail)"
+outcome: "no-response"
+key_success_factor: "Ultra-brief voicemail with single compelling hook to maximize callback rate"
 
 audio_source: "../../sellerfinancerecordings/Voicemail - Seller Finance One Liner.mp3"
 ---

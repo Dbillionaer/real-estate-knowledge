@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 32.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance with Florida Insurance Market Education"
+objections_handled: ["High insurance premiums in Florida", "Older home insurance concerns", "Natural disaster risk"]
+seller_profile: "Agent in Florida market with insurance-challenged older property"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Turned insurance concern into rapport-building conversation; positioned as informed out-of-state investor who understands Florida market challenges"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 32.mp3"
 ---

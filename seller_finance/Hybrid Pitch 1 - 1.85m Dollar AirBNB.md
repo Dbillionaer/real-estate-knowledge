@@ -10,11 +10,11 @@ related_playbooks: [[[Hybrid_Deals_Playbook]]]
 source_file: transcripts/sellerfinance/Hybrid Pitch 1 - 1.85m Dollar AirBNB.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Hybrid Cash + Seller Finance on High-Value AirBNB Property"
+objections_handled: ["High price point", "AirBNB income concern", "Wants significant cash component"]
+seller_profile: "AirBNB operator with $1.85M property, income-dependent"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Structured hybrid deal with substantial cash down payment plus seller finance to match AirBNB income replacement"
 
 audio_source: "../../sellerfinancerecordings/Hybrid Pitch 1 - 1.85m Dollar AirBNB.mp3"
 ---

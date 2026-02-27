@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 17.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance Pitch with Down Payment Negotiation"
+objections_handled: ["Down payment too low", "Wants more cash upfront"]
+seller_profile: "Property owner negotiating down payment amount"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Negotiated down payment to acceptable level while maintaining favorable monthly terms"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 17.mp3"
 ---

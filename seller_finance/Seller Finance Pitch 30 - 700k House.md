@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 30 - 700k House.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "High-Value Seller Finance with Sophisticated Buyer Framing"
+objections_handled: ["High price point hesitation", "Wants traditional sale"]
+seller_profile: "High-value property owner ($700K) considering traditional vs creative sale"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Positioned seller finance as premium option for sophisticated sellers, showing total return exceeds traditional sale"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 30 - 700k House.mp3"
 ---

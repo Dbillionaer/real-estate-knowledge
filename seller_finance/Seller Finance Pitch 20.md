@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 20.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance on Fully Renovated Duplex"
+objections_handled: ["Seller asking $400K firm", "Property just renovated"]
+seller_profile: "Duplex owner who completed full renovation, asking $400K"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Gathered detailed renovation info to justify above-asking seller finance offer on fully renovated duplex"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 20.mp3"
 ---

@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 5.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Above-Asking Offer on Stale Listing via Agent"
+objections_handled: ["Seller firm on price", "Market shift concern"]
+seller_profile: "Absentee owner with long-held property, firm on price"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Identified 44-day stale listing, offered $350K (above ask) on terms to motivate seller who bought at $78K"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 5.mp3"
 ---

@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 6.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Full Seller Finance Education Pitch with Tax Deferral and Capital Gains Benefit"
+objections_handled: ["Agent needs broker approval", "Unfamiliar with seller finance mechanics"]
+seller_profile: "Investor who acquired property as part of package deal, represented by agent"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Comprehensive education on seller finance mechanics: tax deferral, capital gains reduction, quitclaim deed protection, 84-month balloon"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 6.mp3"
 ---

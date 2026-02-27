@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 4.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance with 5-Year Balloon vs Bank Loan Comparison"
+objections_handled: ["Seller needs cash to finish other projects", "Agent commission concern"]
+seller_profile: "Flipper/investor selling renovated property through agent"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Framed seller finance as better than bank terms: 10% down vs 20%, above asking price, commission paid upfront from down payment"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 4.mp3"
 ---

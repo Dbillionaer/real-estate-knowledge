@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance One Liner.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
+demonstrates_technique: "Quick 90-Second Seller Finance One-Liner Pitch"
 objections_handled: []
-seller_profile: ""
+seller_profile: "Property owner receiving initial outreach"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Concise one-liner that explains seller finance benefit in under 90 seconds to get seller interested"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance One Liner.mp3"
 ---

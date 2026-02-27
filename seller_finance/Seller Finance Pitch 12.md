@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 12.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance on Duplex with Roofing Contractor Relationship Building"
+objections_handled: ["Roof condition concern", "Unforeseen rehab risk"]
+seller_profile: "Agent who is also a roofing contractor, selling duplex for owner relocating to Atlanta"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Turned roof concern into relationship opportunity; offered $400K (above list) on seller finance terms while building contractor relationship"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 12.mp3"
 ---

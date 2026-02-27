@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
+demonstrates_technique: "Initial Seller Finance Introduction Pitch"
 objections_handled: []
-seller_profile: ""
+seller_profile: "Duplex owner (Raven) with off-market property"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Established rapport and introduced seller finance concept on off-market duplex"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch.mp3"
 ---

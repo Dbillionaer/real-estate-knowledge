@@ -1,22 +1,22 @@
 ---
-title: "cec2c2a0-4d53-11f0-8e0f-1f9b00d1a734"
+title: "Subject To Pitch - Vacant Property Double Carrying Costs"
 type: transcript
 category: Creative Finance
-strategies: [Creative Finance]
-tags: [#transcript, #creative-finance, #creative-finance]
+strategies: [Subject-To]
+tags: [#transcript, #subjectto, #creative-finance]
 source_file: transcripts/mortgage/cec2c2a0-4d53-11f0-8e0f-1f9b00d1a734.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Subject-To on Vacant Property with Double Carrying Costs"
+objections_handled: ["Lots of showings but no offers", "Paying mortgage on vacant property"]
+seller_profile: "Homeowner who moved out and is paying mortgage on vacant property in Cypress, TX"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Identified double carrying cost pain point (mortgage + new housing); positioned subject-to as immediate relief"
 
 audio_source: "../../mortgagetakeoverrec/cec2c2a0-4d53-11f0-8e0f-1f9b00d1a734.mp3"
 ---
 
-# cec2c2a0-4d53-11f0-8e0f-1f9b00d1a734
+# Subject To Pitch - Vacant Property Double Carrying Costs
 
 ## Call Details
 

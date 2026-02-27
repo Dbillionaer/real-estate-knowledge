@@ -1,22 +1,22 @@
 ---
-title: "fdbc6bf0-5146-11f0-8da1-912d4cd85c32"
+title: "Subject To Pitch - Agent Objection Handling Voicemail"
 type: transcript
 category: Creative Finance
-strategies: [Creative Finance]
-tags: [#transcript, #creative-finance, #creative-finance]
+strategies: [Subject-To]
+tags: [#transcript, #subjectto, #creative-finance]
 source_file: transcripts/mortgage/fdbc6bf0-5146-11f0-8da1-912d4cd85c32.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Subject-To Objection Handling Voicemail to Agent"
+objections_handled: ["Agent has questions about subject-to transaction", "Needs proof of legitimacy"]
+seller_profile: "Agent (Christine Bouchard) with questions about subject-to transaction for her client"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Proactively offered references (attorney, previous agents, previous sellers) to address agent's legitimacy concerns before scheduled call"
 
 audio_source: "../../mortgagetakeoverrec/fdbc6bf0-5146-11f0-8da1-912d4cd85c32.mp3"
 ---
 
-# fdbc6bf0-5146-11f0-8da1-912d4cd85c32
+# Subject To Pitch - Agent Objection Handling Voicemail
 
 ## Call Details
 

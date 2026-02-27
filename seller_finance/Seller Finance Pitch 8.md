@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 8.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Subject-To Hybrid with Seller Finance Overlay on Mortgaged Duplex"
+objections_handled: ["Has existing mortgage", "Due-on-sale clause concern", "Bank won't allow assumption"]
+seller_profile: "Duplex co-owner with existing mortgage, familiar with creative finance concepts"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Addressed due-on-sale concern with Georgia law explanation; offered to take over mortgage payments plus additional monthly payment"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 8.mp3"
 ---

@@ -1,22 +1,22 @@
 ---
-title: "383a75f0-53a5-11f0-bd4c-078d308e83f9"
+title: "Subject To Pitch - Low Equity Referral"
 type: transcript
 category: Creative Finance
-strategies: [Creative Finance]
-tags: [#transcript, #creative-finance, #creative-finance]
+strategies: [Subject-To]
+tags: [#transcript, #subjectto, #creative-finance]
 source_file: transcripts/mortgage/383a75f0-53a5-11f0-bd4c-078d308e83f9.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Subject-To Deal Analysis with Low-Equity Seller via Referral"
+objections_handled: ["Low equity situation", "Seller not yet approached"]
+seller_profile: "Low-equity property owner referred by channel follower/wholesaler"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Educated referring wholesaler on subject-to structure for low-equity deal before approaching seller"
 
 audio_source: "../../mortgagetakeoverrec/383a75f0-53a5-11f0-bd4c-078d308e83f9.mp3"
 ---
 
-# 383a75f0-53a5-11f0-bd4c-078d308e83f9
+# Subject To Pitch - Low Equity Referral
 
 ## Call Details
 

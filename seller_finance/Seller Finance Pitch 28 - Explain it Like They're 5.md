@@ -9,11 +9,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 28 - Explain it Like They're 5.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
+demonstrates_technique: "ELI5 Seller Finance Explanation for Non-Sophisticated Sellers"
 objections_handled: []
-seller_profile: ""
+seller_profile: "Non-sophisticated seller unfamiliar with real estate investing concepts"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Used simple analogies and plain language to explain seller finance to seller with no investing background"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 28 - Explain it Like They're 5.mp3"
 ---

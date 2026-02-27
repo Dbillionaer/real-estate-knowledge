@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]], [[Hybrid_Deals_Playbook]]]
 source_file: transcripts/mortgage/Hybrid - Restructuring Seller Finance to Hybrid.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Pivoting from Pure Seller Finance to Hybrid Structure"
+objections_handled: ["Pure seller finance not enough cash", "Needs larger upfront payment"]
+seller_profile: "Seller who initially rejected pure seller finance but open to hybrid"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Identified seller's cash need and restructured from pure seller finance to hybrid by adding cash component"
 
 audio_source: "../../mortgagetakeoverrec/Hybrid - Restructuring Seller Finance to Hybrid.mp3"
 ---

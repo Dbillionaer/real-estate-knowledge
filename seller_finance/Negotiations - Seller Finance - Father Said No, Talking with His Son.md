@@ -9,11 +9,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Negotiations - Seller Finance - Father Said No, Talking with His Son.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Multi-Generational Decision Maker Navigation"
+objections_handled: ["Primary decision maker (father) rejected offer", "Son as secondary influencer"]
+seller_profile: "Family-owned property with generational decision-making dynamic"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Identified son as more open to creative finance; reframed offer to address father's concerns through son's perspective"
 
 audio_source: "../../sellerfinancerecordings/Negotiations - Seller Finance - Father Said No, Talking with His Son.mp3"
 ---

@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 21.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Over-Asking Seller Finance Pitch After FHA Offer Rejections"
+objections_handled: ["FHA offers rejected", "Seller wants non-FHA buyer", "Out-of-state investor cash flow concern"]
+seller_profile: "Agent who rejected FHA offers, wants investor buyer for move-in-ready property"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Positioned as non-FHA investor buyer; offered seller finance as solution to cash flow problem at $200K price point"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 21.mp3"
 ---

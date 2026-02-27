@@ -1,22 +1,22 @@
 ---
-title: "023c2580-53a9-11f0-bd4c-078d308e83f9"
+title: "Subject To Pitch - Military Separation Distress"
 type: transcript
 category: Creative Finance
-strategies: [Creative Finance]
-tags: [#transcript, #creative-finance, #creative-finance]
+strategies: [Subject-To]
+tags: [#transcript, #subjectto, #creative-finance]
 source_file: transcripts/mortgage/023c2580-53a9-11f0-bd4c-078d308e83f9.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Subject-To on Military Separation Distressed Property"
+objections_handled: ["Ex-spouse still in property", "Carrying double housing costs"]
+seller_profile: "Military veteran going through separation, carrying mortgage plus rent on two properties"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Identified double housing cost distress; positioned subject-to as immediate relief from mortgage burden during separation"
 
 audio_source: "../../mortgagetakeoverrec/023c2580-53a9-11f0-bd4c-078d308e83f9.mp3"
 ---
 
-# 023c2580-53a9-11f0-bd4c-078d308e83f9
+# Subject To Pitch - Military Separation Distress
 
 ## Call Details
 

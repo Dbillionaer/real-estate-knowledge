@@ -9,11 +9,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 3 - Condo.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance via Agent with Commission Protection"
+objections_handled: ["Confusion about property scope", "Agent commission concern"]
+seller_profile: "Absentee owner selling single condo unit through agent"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Clarified property scope, offered above asking ($175K vs $170K), assured agent commission paid from down payment"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 3 - Condo.mp3"
 ---

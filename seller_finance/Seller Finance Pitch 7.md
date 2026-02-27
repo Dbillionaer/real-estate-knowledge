@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 7.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Direct-to-Seller Negotiation After Agent Relay Fails"
+objections_handled: ["Seller wants all money upfront", "Balloon payment concern", "Can make more renting it himself"]
+seller_profile: "Duplex owner who wants cash upfront, aware of rental income potential"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Escalated to direct seller conversation after agent relay; countered rental income objection by showing $250K total vs rental income"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 7.mp3"
 ---

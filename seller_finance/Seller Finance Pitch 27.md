@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 27.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Subject-To Lender Call - Approving Buyer Terms via HUD Line 203"
+objections_handled: ["Agent unfamiliar with subject-to process", "Needs documentation"]
+seller_profile: "Agent representing seller on Skyline Drive, unfamiliar with subject-to transaction"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Positioned as lender/financial partner; used HUD line 203 reference to legitimize subject-to transaction for skeptical agent"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 27.mp3"
 ---

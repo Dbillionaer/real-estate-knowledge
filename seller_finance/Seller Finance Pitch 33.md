@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 33.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance with Extended Balloon Negotiation"
+objections_handled: ["5-year balloon too short", "20% down payment requirement", "Seller wants non-assignable contract"]
+seller_profile: "Property owner open to seller finance but negotiating balloon length and down payment"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Offered above asking ($150K vs $135K) to incentivize longer 10-year balloon; addressed non-assignability requirement"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 33.mp3"
 ---

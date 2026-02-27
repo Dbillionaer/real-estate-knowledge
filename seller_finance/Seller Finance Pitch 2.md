@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 2.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Above-Asking Seller Finance with Interest-Only Rehab Period"
+objections_handled: ["Declined seller finance before", "Needs to think about it", "Wants cash upfront"]
+seller_profile: "Cash-owning investor using property as 1031 exchange component"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Offered above asking ($325K vs $310K ask) with interest-only payments during rehab to make monthly payments manageable"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 2.mp3"
 ---

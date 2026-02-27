@@ -9,11 +9,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Negotiations - Seller Finance - Direct to Seller.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Direct-to-Seller Negotiation Bypassing Agent"
+objections_handled: ["Agent as gatekeeper", "Seller unfamiliar with terms"]
+seller_profile: "Property owner being contacted directly without agent intermediary"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Direct seller contact allowed more candid negotiation and faster term agreement than agent-mediated approach"
 
 audio_source: "../../sellerfinancerecordings/Negotiations - Seller Finance - Direct to Seller.mp3"
 ---

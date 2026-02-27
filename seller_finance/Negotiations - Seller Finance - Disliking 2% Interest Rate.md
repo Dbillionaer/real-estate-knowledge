@@ -9,11 +9,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Negotiations - Seller Finance - Disliking 2% Interest Rate.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Interest Rate Negotiation and Justification"
+objections_handled: ["Interest rate too low", "Wants higher return on seller finance"]
+seller_profile: "Financially sophisticated seller who understands interest rate implications"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Justified lower interest rate by showing total return with appreciation and tax benefits exceeds higher rate alternatives"
 
 audio_source: "../../sellerfinancerecordings/Negotiations - Seller Finance - Disliking 2% Interest Rate.mp3"
 ---

@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 16.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance with Rental Income Comparison"
+objections_handled: ["Seller considering renting instead"]
+seller_profile: "Landlord weighing rental vs sale decision"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Compared seller finance monthly payment to rental income to show equivalent or better cash flow without landlord headaches"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 16.mp3"
 ---

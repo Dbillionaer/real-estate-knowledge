@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 35.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Quick Seller Finance Pitch Before Agent Showing"
+objections_handled: ["Agent has showing in 10 minutes", "Previous offer had low down payment"]
+seller_profile: "Agent with active showing scheduled, representing seller who wants more than $150K down"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Adapted to time constraint; quickly established seller finance interest and down payment expectations before agent's showing"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 35.mp3"
 ---

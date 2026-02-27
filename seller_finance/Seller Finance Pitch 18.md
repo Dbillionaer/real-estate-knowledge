@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 18.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance with Appreciation and Long-Term Wealth Building"
+objections_handled: ["Seller wants full cash price"]
+seller_profile: "Property owner focused on maximizing total proceeds"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Showed total return with interest exceeds cash price, framing seller finance as wealth-building tool"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 18.mp3"
 ---

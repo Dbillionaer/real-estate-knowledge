@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 10.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance on Partially Renovated Property with Title Issue History"
+objections_handled: ["Property has complicated history", "Seller unsure about terms"]
+seller_profile: "Owner-occupant who bought to renovate but got overwhelmed; property has city easement dispute history"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Built rapport by listening to seller's renovation story; positioned seller finance as solution to get full value on partially renovated property"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 10.mp3"
 ---

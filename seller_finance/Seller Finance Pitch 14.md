@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 14.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Seller Finance Pitch with Balloon Payment Explanation"
+objections_handled: ["Unfamiliar with balloon payment structure"]
+seller_profile: "Property owner unfamiliar with seller finance mechanics"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Clear explanation of balloon payment structure and timeline built seller confidence"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 14.mp3"
 ---

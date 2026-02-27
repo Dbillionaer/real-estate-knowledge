@@ -9,11 +9,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Voicemail - Seller Finance for Multi Family.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
+demonstrates_technique: "Voicemail Script for Multifamily Seller Finance"
 objections_handled: []
-seller_profile: ""
-outcome: "follow-up"
-key_success_factor: ""
+seller_profile: "Multifamily property owner (voicemail)"
+outcome: "no-response"
+key_success_factor: "Compelling voicemail that mentions specific benefit (monthly income) to drive callback"
 
 audio_source: "../../sellerfinancerecordings/Voicemail - Seller Finance for Multi Family.mp3"
 ---

@@ -9,11 +9,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 34 - Duplex.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Duplex Seller Finance with Rental Income Replacement"
+objections_handled: ["Currently collecting rent", "Doesn't want to lose rental income"]
+seller_profile: "Duplex landlord with existing tenants and rental income"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Structured monthly seller finance payment to match or exceed current rental income, eliminating landlord responsibilities"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 34 - Duplex.mp3"
 ---

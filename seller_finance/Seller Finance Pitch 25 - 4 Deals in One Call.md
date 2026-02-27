@@ -8,11 +8,11 @@ related_playbooks: [[[seller_finance_playbook]]]
 source_file: transcripts/sellerfinance/Seller Finance Pitch 25 - 4 Deals in One Call.txt
 created: 2025-10-16
 
-demonstrates_technique: ""
-objections_handled: []
-seller_profile: ""
+demonstrates_technique: "Portfolio Seller Finance - Multiple Properties One Call"
+objections_handled: ["Seller has multiple properties to sell", "Wants to sell all at once"]
+seller_profile: "Multi-property owner looking to liquidate portfolio"
 outcome: "follow-up"
-key_success_factor: ""
+key_success_factor: "Structured seller finance terms across 4 properties in single call, showing portfolio acquisition efficiency"
 
 audio_source: "../../sellerfinancerecordings/Seller Finance Pitch 25 - 4 Deals in One Call.mp3"
 ---
