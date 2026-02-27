@@ -1,0 +1,39 @@
+# Obsidian workspace state (machine-specific, don't commit)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+
+# QMD index cache (regenerated automatically)
+.qmd/
+.qmd-cache/
+*.qmd-index
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files
+*.swp
+*.swo
+*~
+
+# Audio files (stored separately, referenced by path in frontmatter)
+*.mp3
+*.wav
+*.m4a
+
+# Binary contract files (keep PDFs and DOCX in git for reference)
+# Uncomment if you want to exclude them:
+# contracts/*.pdf
+# contracts/*.docx
+
+# Agent-generated files that may contain sensitive deal info
+# Uncomment to exclude from git (keep locally only):
+# agent-lessons/
+# market-data/
+# buyer-profiles/

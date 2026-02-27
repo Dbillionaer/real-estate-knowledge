@@ -1,0 +1,79 @@
+{
+  "name": "wholesale-kb",
+  "description": "Wholesale Real Estate Knowledge Base — indexed for AI agent semantic search",
+  "version": "1.0.0",
+
+  "index": {
+    "paths": [
+      {
+        "name": "playbooks",
+        "path": ".",
+        "pattern": "*.md",
+        "exclude": ["README.md", "KNOWLEDGE_BASE.md", "TAGS_INDEX.md", "metadata_conventions.md"],
+        "description": "Strategy playbooks and reference guides"
+      },
+      {
+        "name": "transcripts-cash",
+        "path": "cash_deals",
+        "pattern": "**/*.md",
+        "description": "Cash deal call transcripts"
+      },
+      {
+        "name": "transcripts-seller-finance",
+        "path": "seller_finance",
+        "pattern": "**/*.md",
+        "description": "Seller finance call transcripts"
+      },
+      {
+        "name": "transcripts-creative",
+        "path": "creative_finance",
+        "pattern": "**/*.md",
+        "description": "Creative finance (Subject-To, Hybrid) call transcripts"
+      },
+      {
+        "name": "agent-lessons",
+        "path": "agent-lessons",
+        "pattern": "**/*.md",
+        "description": "Lessons learned from real deals (written by agents)"
+      },
+      {
+        "name": "market-data",
+        "path": "market-data",
+        "pattern": "**/*.md",
+        "description": "Comp data, ARV notes, market trends (written by agents)"
+      },
+      {
+        "name": "buyer-profiles",
+        "path": "buyer-profiles",
+        "pattern": "**/*.md",
+        "description": "Buyer preferences and history (written by agents)"
+      }
+    ],
+    "update": {
+      "interval": "5m",
+      "debounceMs": 10000,
+      "watchForChanges": true
+    }
+  },
+
+  "search": {
+    "maxResults": 10,
+    "timeoutMs": 5000,
+    "includeMetadata": true,
+    "includeFrontmatter": true,
+    "frontmatterFields": [
+      "demonstrates_technique",
+      "objections_handled",
+      "seller_profile",
+      "outcome",
+      "key_success_factor",
+      "strategies",
+      "category"
+    ]
+  },
+
+  "frontmatter": {
+    "parse": true,
+    "indexFields": true
+  }
+}
