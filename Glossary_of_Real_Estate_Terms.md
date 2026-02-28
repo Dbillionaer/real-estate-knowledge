@@ -304,3 +304,465 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 
 **Social Validation**
 : The tendency to look to others for cues on how to behave. Real estate professionals use testimonials and references to build credibility.
+
+---
+
+### **PropStream & Data Platform Terms**
+
+**1st Loan to Current Value (1LTV)**
+: The ratio of the first (primary) mortgage loan to the current market value of the property. Used to assess equity position and risk.
+
+**Absentee Owner**
+: An individual or corporation that legally owns a property without occupying or actively managing it. The property may still have tenants. Absentee owners are prime targets for wholesalers because they are often more motivated to sell than owner-occupants.
+
+**Assessor Parcel Number (APN)**
+: A unique number assigned to each parcel of land by a county tax assessor. Used by local governments to identify and track land ownership for property tax purposes.
+
+**Automated Valuation Modeling (AVM)**
+: An AI-powered system that uses machine learning to estimate property values by analyzing neighborhood data, market trends, county records, and proprietary indices. PropStream's AVM provides daily residential property valuations.
+
+**Bird Dog**
+: A real estate professional who actively seeks out underpriced or distressed properties and sells the leads to motivated investors. Bird dogs earn a referral fee rather than an assignment fee.
+
+**Click-to-Dial**
+: A feature that lets you place calls directly from a CRM or data platform using a built-in softphone, allowing instant outreach to leads without a separate dialer.
+
+**Comparative Market Analysis (CMA)**
+: An evaluation of a home's value based on similar, recently sold properties (comparables) in the same neighborhood. Performed by a real estate agent (not a licensed appraiser). Less formal than an appraisal but widely used in wholesaling for quick ARV estimates.
+
+**Default Amount**
+: The unpaid principal balance of a loan as of the date of default, excluding any negative amortization.
+
+**Demographic Data**
+: Statistical information about populations and their attributes used in real estate analysis. Includes commute patterns, education levels, household composition, income brackets, ownership vs. renter ratios, and total population by age range.
+
+**Do Not Call (DNC)**
+: A registry maintained by the Federal Trade Commission (FTC) where US citizens register their numbers to opt out of unsolicited telemarketer calls. Wholesalers must scrub their call lists against the DNC registry before dialing.
+
+**Do Not Call Scrubbing (DNC Scrubbing)**
+: The process of identifying which phone numbers on a lead list are registered on the DNC registry. Includes Federal & State DNC lists, government numbers, attorney numbers, anti-telemarketing groups, and known litigants.
+
+**Estimated Equity Percentage (EP)**
+: The value obtained when a property's equity is divided by its estimated value. Used to quickly assess how much equity a seller has available.
+
+**Filter Stacking**
+: Combining two or more data filters to target a highly specific audience of leads. Differs from list stacking, which combines multiple pre-built lists to find properties appearing on multiple distress indicators.
+
+**Flip Comp**
+: A comparable sale that shows properties bought and resold in a short period of time (typically under 12 months). Used to identify active flippers in a market and validate ARV assumptions.
+
+**Lead Automator**
+: A data platform feature that automatically identifies the most motivated leads, applies stacked filters, and updates list data in real time to ensure it meets specified criteria.
+
+**Lead Lists**
+: Pre-configured filter sets targeting a specific identified audience of motivated sellers. Examples include tax delinquent lists, pre-foreclosure lists, absentee owner lists, and probate lists.
+
+**Litigator Labels**
+: Flags in skip tracing results that identify contacts with a history of legal action or litigation. Used to avoid high-risk outreach to individuals known to sue telemarketers or real estate investors.
+
+**List Stacking**
+: Combining multiple lead lists to identify properties that appear on two or more distress indicators simultaneously. Properties appearing on multiple lists (e.g., tax delinquent AND absentee owner AND pre-foreclosure) represent the most motivated sellers.
+
+**Local Owner**
+: A property owner who resides within the same county as the property. Contrasted with absentee owners, out-of-county owners, and out-of-state owners.
+
+**Out-of-County Owner**
+: A property owner who lives in a different county than the property. Often indicates an absentee investor or inherited property situation.
+
+**Out-of-State Owner**
+: A property owner who lives in a different state than the property. May indicate an investor seeking better ROI in other markets or an inherited property situation.
+
+**Pre-Probate**
+: A lead type that links property owners with death records. The current name on a property title matches with a name and address in a death record, indicating the property may soon enter probate.
+
+**Predictive AI**
+: Artificial intelligence systems that analyze historical data to forecast future events or behaviors. In real estate, used to predict which properties are most likely to go into foreclosure, be listed for sale, or represent motivated seller opportunities.
+
+**PropStream Intelligence**
+: An AI-powered suite of real estate data tools including Foreclosure Factor (predicts likelihood of default), Property Condition (AI analysis of MLS photos), Upside Down lead list (negative equity properties), and Estimated Wholesale Value (70% of AVM value).
+
+**RVM (Ringless Voicemail)**
+: A method of placing a pre-recorded audio message directly into a voicemail inbox without the associated telephone ringing first. Used in real estate marketing to reach leads without interrupting them.
+
+**Senior Owner**
+: A filter identifying property owners who have owned a property for 25+ years, have a reverse mortgage, or qualify based on tax exemption status. Often indicates long-term equity accumulation and potential motivation to sell.
+
+**Skip Tracing**
+: The process of locating a property owner's contact information (phone numbers, email addresses, mailing addresses). In real estate, used to find contact details for absentee owners, inherited property owners, and other off-market leads. Modern skip tracing automatically ranks phone numbers by likelihood of connection and flags DNC registrations.
+
+**Softphone**
+: A software-based phone built into a CRM or dialing platform, enabling calls without a physical phone. Allows real estate investors to call leads directly from their computer.
+
+**VoIP (Voice over Internet Protocol)**
+: Cloud-based calling technology that allows phone calls over the internet instead of traditional phone lines. Enables click-to-dial functionality, lower call costs, and flexible communication for real estate teams.
+
+**Zombie Property**
+: A property currently in pre-foreclosure that is identified as vacant by the US Postal Service. The owner has often abandoned the property but the foreclosure process has not yet completed.
+
+---
+
+### **Property Status & Transaction Terms**
+
+**Active**
+: A property currently available for sale on the MLS.
+
+**Active Contingent**
+: A property listing where the seller has accepted an offer subject to certain conditions being met (e.g., buyer's home sale, financing approval). The property is still technically available if the contingency fails.
+
+**Active Under Contract**
+: A property under contract but still accepting backup offers. Certain contingencies may still need to be satisfied.
+
+**Addendum**
+: An additional document that modifies or supplements an original purchase agreement or lease. Used to add terms, extend deadlines, or address issues discovered during due diligence.
+
+**Appraisal**
+: A professional estimate of a property's market value conducted by a licensed appraiser. Required by mortgage lenders to confirm the property is worth the loan amount.
+
+**Arm's Length Transaction**
+: A transaction where buyers and sellers act independently with no relationship to each other, ensuring both parties act in their own self-interest without pressure or duress.
+
+**As Is / Where Is**
+: A property sold in its current condition with no seller obligation to make repairs. The seller must still disclose known defects, but buyers accept the property's existing state.
+
+**Backup Offer**
+: An offer submitted on a property already under contract, positioned to move forward if the primary transaction falls through. Only one backup offer can be legally held at a time.
+
+**Blind Offer**
+: An offer made on a property the buyer has not physically inspected, even when inspection was possible. Used in competitive markets to move quickly.
+
+**Cancellation of Contract**
+: The termination of a purchase agreement by either the buyer or seller. Buyers typically have more cancellation rights than sellers, but earnest money may be forfeited depending on the circumstances.
+
+**Coming Soon**
+: An MLS status indicating a property will soon be available but is not yet actively listed or showing.
+
+**Contingent**
+: A property where the seller has accepted an offer subject to conditions that must be met before closing (e.g., home inspection, financing approval, sale of buyer's current home).
+
+**Counteroffer**
+: A seller's rejection of a buyer's offer accompanied by a new offer with modified terms. Creates a new negotiation round and voids the original offer.
+
+**Expired**
+: An MLS listing that reached its expiration date without selling. Expired listings represent motivated sellers who tried and failed to sell — a prime target for wholesalers.
+
+**Failed Listing**
+: A property listed on the MLS that failed to sell and was taken off the market. Similar to expired listings, these represent sellers who may now be more open to creative offers.
+
+**For Sale by Owner (FSBO)**
+: A property being sold directly by the owner without a real estate agent. FSBO sellers handle all aspects of the transaction themselves.
+
+**Pending**
+: A property under contract with all contingencies met, awaiting final closing. Most pending sales close, but deals can still fall through.
+
+**Under Contract**
+: When a seller has accepted an offer but the sale is not yet final. The property is not guaranteed to close until all contingencies are satisfied.
+
+**Withdrawn**
+: A property temporarily removed from the MLS by the seller or agent. May be relisted later.
+
+---
+
+### **Financing & Loan Terms**
+
+**Adjustable-Rate Mortgage (ARM)**
+: A home loan with an interest rate that changes periodically based on market conditions. Typically starts with a lower rate than fixed-rate loans but carries the risk of payment increases.
+
+**Bank-Owned Property**
+: A property acquired by a financial institution after a homeowner defaults on their mortgage. Sold at discounted prices but may require significant repairs and have title complications.
+
+**Commercial Loan**
+: Financing provided to companies or investors for the purchase or refinancing of business-related or investment properties. Different underwriting standards than residential loans.
+
+**Construction Loan**
+: A short-term, higher-interest loan used to finance the building or major renovation of a property. Typically replaced by a permanent mortgage upon completion.
+
+**Conventional Loan**
+: A mortgage not backed by a government entity (FHA, VA, USDA). Available through private lenders with stricter credit and down payment requirements than government-backed loans.
+
+**Credit Line Loan / HELOC (Home Equity Line of Credit)**
+: A revolving line of credit secured by home equity. Allows borrowers to draw funds as needed, repay, and borrow again — similar to a credit card but secured by real estate.
+
+**Down Payment**
+: The upfront cash payment made by a buyer toward the purchase price of a property. The remaining balance is typically financed through a mortgage. Standard down payments are 20% for investment properties.
+
+**FHA Loan**
+: A mortgage backed by the Federal Housing Administration, designed for buyers with lower credit scores and smaller down payments. Not typically used in investment property purchases.
+
+**Fixed-Rate Mortgage**
+: A home loan with an interest rate that remains constant for the entire loan term. Provides payment predictability but typically carries higher initial rates than ARMs.
+
+**Hard Money Lenders**
+: Businesses that lend capital at high interest rates and short loan terms, secured by real estate. Easier to qualify for than traditional loans (credit scores matter less) but significantly more expensive.
+
+**iBuyer**
+: A company that uses technology to make instant cash offers on homes. Takes on the burden of ownership and resale. Examples include Opendoor and Offerpad.
+
+**Loan Contingency**
+: A clause in a purchase contract allowing a buyer to back out and keep their deposit if they cannot secure financing with specified terms within a fixed period.
+
+**Loan Officer**
+: A representative at a financial institution who assists borrowers with the loan application process and has expertise in lending products and regulations.
+
+**Mortgage Broker**
+: An intermediary who works with multiple lenders to find the best loan terms for a borrower. Does not use their own funds to make loans.
+
+**Per Diem**
+: Daily charges paid to a lender if a loan closing is delayed past the originally scheduled date. Reflected on the Closing Disclosure.
+
+**Private Lender**
+: An individual (not a business) who loans large sums of money for real estate transactions. Similar to hard money lenders but typically more flexible on terms since they're individuals rather than institutions.
+
+**Refinance**
+: Replacing an existing mortgage with a new one, typically to obtain better interest rates, lower monthly payments, or access equity.
+
+**Reverse Mortgage**
+: A loan available to homeowners 62+ that allows them to receive payments from the lender based on their home's equity. The loan is repaid when the home is sold.
+
+**Step Investment Rate**
+: An interest rate that starts lower and increases at predetermined intervals. Also called a step-up rate.
+
+**Traditional Lender**
+: A financial institution (bank, credit union) that provides long-term loans with lower interest rates. Subject to Fannie Mae/Freddie Mac guidelines and federal regulations.
+
+**VA Loan**
+: A mortgage guaranteed by the US Department of Veterans Affairs, issued by private lenders to veterans, service members, and their spouses. Typically requires no down payment.
+
+**Variable Rate**
+: A mortgage interest rate that fluctuates based on a benchmark index. Payments change over time, unlike fixed-rate mortgages.
+
+---
+
+### **Legal & Lien Terms**
+
+**Bankruptcy**
+: A court proceeding examining the assets and liabilities of individuals or businesses unable to pay their debts. The court decides whether to discharge (eliminate) the debts.
+
+**Bankruptcy Dismissed**
+: A bankruptcy case ended without debt discharge — as if the bankruptcy was never filed. Terminates the automatic stay, allowing creditors to resume collection efforts.
+
+**Bankruptcy Discharged**
+: A court order canceling the obligation to repay discharged debts. Credit card bills, medical bills, and other included debts may be eliminated.
+
+**Child Support Lien**
+: A lien placed on property by a custodial parent when child support is owed. Notifies the world of a financial claim against the property owner.
+
+**Easement**
+: The legal right to use a piece of land granted to someone who does not own it. Often used by government or utility companies for infrastructure access. Can impact property value.
+
+**Encroachment**
+: A dispute, often between neighbors, where one party's property (fence, structure, trees) crosses into another party's parcel boundaries.
+
+**Escalation Clause**
+: A contract provision allowing a buyer to automatically increase their offer by a predetermined amount above competing offers, up to a maximum price.
+
+**Fiduciary**
+: A person with a legal obligation to act in another party's best interest. Real estate agents in fiduciary relationships must prioritize their client's interests above their own.
+
+**Foreclosure**
+: The legal process by which a lender recovers the balance of a loan from a defaulting borrower by forcing the sale of the collateral property.
+
+**Foreclosure Sale**
+: The auction of a foreclosed property, typically conducted by the local sheriff or trustee. Banks often purchase properties back at these auctions if no buyers bid above the opening bid.
+
+**Free & Clear**
+: A property with no encumbrances (liens, mortgages) secured against it. Free and clear properties are ideal for seller financing because there's no existing debt to work around.
+
+**HOA (Homeowner Association)**
+: A private association formed to manage and maintain a residential community. Collects dues and enforces community rules.
+
+**HOA Lien**
+: A judgment lien placed on a property by an HOA for unpaid dues. HOAs can pursue court judgments and record them against members' homes.
+
+**Intrafamily Transfer**
+: A transfer of property ownership between family members (parent, spouse, child, sibling, grandparent, etc.).
+
+**Involuntary Lien**
+: A non-consensual claim against property as collateral for a debt, typically imposed by a court for non-payment of taxes. Gives the authority the right to confiscate property if the debt is not settled.
+
+**Lis Pendens**
+: A written notice filed in county land records that a lawsuit has been filed concerning real estate, involving either the title or a claimed ownership interest. Alerts potential buyers to the pending litigation.
+
+**Mechanics Lien**
+: A security interest in property title for the benefit of contractors, subcontractors, or suppliers who provided labor or materials that improved the property.
+
+**Notice of Default**
+: A notification to a borrower that they have missed payments or otherwise defaulted on their mortgage contract. The first formal step in the foreclosure process.
+
+**Notice of Foreclosure Sale**
+: In non-judicial foreclosure states, a public notice (typically in a newspaper) that a property will be sold at auction on a specific date.
+
+**Notice of Trustee Sale**
+: Informs homeowners and mortgage borrowers that their home will be sold at a trustee's sale on a specific date and location.
+
+**Pre-Foreclosure**
+: The period after a lender files a Notice of Default but before the property is sold at foreclosure auction. The owner can still reverse the default by paying arrears or selling the property.
+
+**Pre-Foreclosure Release**
+: The cancellation of a pre-foreclosure notice, typically due to loan payoff, loan modification, or other resolution.
+
+**Probate**
+: The legal process of administering a deceased person's estate, including transferring property title from the deceased to heirs or beneficiaries.
+
+**Solar Lien**
+: A lien placed on solar equipment for non-payment of the solar loan. Remains on the property until the loan is paid off. Buyers must either assume the loan or the seller must pay it off at closing.
+
+**Tax Delinquent**
+: A property where the owner has failed to pay property taxes by the due date. Tax delinquent properties are a primary source of motivated seller leads.
+
+**Tax Lien**
+: A legal claim placed on a property by a city or county when the owner fails to pay property taxes. The government can eventually force a sale to recover the unpaid taxes.
+
+**Trust Sale**
+: A property being sold by a trustee of a living trust rather than a private party. Often occurs when the original homeowner has passed away. Trustees may be less emotionally attached and more willing to accept creative offers.
+
+**Utility Lien**
+: A legal claim against a property for unpaid utility bills.
+
+---
+
+### **Property & Market Terms**
+
+**Buyer Concessions**
+: Benefits or discounts offered by a buyer to make a deal more attractive, such as covering closing costs or repair credits. Reduces the seller's net proceeds but can close deals.
+
+**Buyer's Agent / Listing Agent**
+: A buyer's agent (selling agent) represents the buyer's interests in a transaction. A listing agent represents the seller. Both are licensed real estate professionals.
+
+**Closing Costs**
+: Fees paid at closing including lender fees, title company fees, attorney fees, insurance, taxes, HOA fees, and agent commissions. Typically 2-5% of the purchase price.
+
+**Depreciation**
+: The decrease in a property's value over time due to wear and tear, age, or external factors. Also a tax benefit allowing investors to deduct a portion of a property's value annually.
+
+**Disclosures**
+: Required seller statements about known property defects, recent repairs, local hazards, and other material facts that could affect a buyer's decision.
+
+**Distressed Property**
+: Any property under foreclosure or being sold by a lender, typically below market value due to the owner's inability to maintain mortgage or tax payments.
+
+**Gross Yield**
+: The total rent collected compared to the market value or purchase price. Formula: `Gross Annual Rent / Current Market Value`. A quick metric for evaluating rental property returns.
+
+**Joint Venture (JV)**
+: A deal between multiple parties who combine resources to develop or acquire a real estate project. Common in wholesaling when one party finds deals and another provides capital.
+
+**Lot Size**
+: The total land area of a property including the structure, front yard, and back yard.
+
+**MLS (Multiple Listing Service)**
+: A database established by cooperating real estate brokers to share property listings. Provides comprehensive data on active, pending, and sold properties.
+
+**MLS Status**
+: The current state of a property listing in the MLS. Key statuses: Active, Pending, Contingent, Failed, Sold, Never Listed, Active Under Contract, Coming Soon, Removed, Deleted, Canceled, Expired, Withdrawn.
+
+**Monthly Rent**
+: An estimate of what a property could rent for monthly. Used in cash flow analysis and to determine whether a deal makes sense as a rental.
+
+**Non-Owner Occupied**
+: A property classification indicating the owner does not live in the property as their primary residence. Investment properties are non-owner occupied.
+
+**Occupancy Status**
+: The legal situation of a household regarding their main residence: owner, tenant/sub-tenant, or free lodger.
+
+**On Market**
+: A property currently available for purchase, typically listed on the MLS.
+
+**Opening Bid**
+: The first bid at a foreclosure auction, set by the foreclosing lender. Usually equals the outstanding loan balance plus accrued interest and fees.
+
+**Owner Occupied Property**
+: A property where the owner lives as their primary residence. Owner-occupants typically have more emotional attachment to their property than investors.
+
+**Owner Type**
+: The form of property ownership: Individual/Sole Ownership (one person), Joint Tenancy (equal shares, right of survivorship), Tenancy in Entirety (married couples), or Tenancy in Common (unequal shares, no survivorship).
+
+**Passive Investing**
+: An investment method requiring minimal ongoing effort from the investor. Includes REITs, remote ownership, and real estate funds. Contrasted with active investing where the investor directly manages the property.
+
+**Planned Unit Development (PUD)**
+: A housing development where local government works with developers to determine private areas, common areas, and building guidelines. Not subject to standard zoning requirements; operated by an HOA.
+
+**Principal**
+: The original loan amount borrowed, excluding interest. Monthly mortgage payments go toward both principal reduction and interest, with early payments weighted heavily toward interest.
+
+**Preliminary Report**
+: A title company report revealing any issues with a property's title (liens, easements, ownership disputes) that must be resolved before a clear title can be delivered. Required for title insurance.
+
+**Property Classification**
+: The category assigned to a property: residential, non-residential, farmland, linear, or machinery and equipment.
+
+**Property Type**
+: The building type of a property: single-family, townhouse, duplex, condo, multi-family, commercial, etc.
+
+**Real Estate Agent**
+: A licensed professional who has passed required real estate classes and the state licensing exam. Can represent buyers and sellers in transactions.
+
+**Real Estate Auction**
+: A method of selling real estate through competitive bidding. Can be non-distressed (owner seeking to sell) or distressed (lender auctioning foreclosed property at courthouse).
+
+**Real Estate Broker**
+: A real estate professional who has completed additional education and passed a broker's exam. Can work independently or manage other agents.
+
+**Real Estate Investing (REI)**
+: The purchase, ownership, management, rental, and/or sale of real estate for profit.
+
+**REALTOR®**
+: A licensed real estate agent who is also a member of the National Association of REALTORS® (NAR) and adheres to its Code of Ethics.
+
+**Refinance**
+: Replacing an existing mortgage with a new one, typically to obtain better terms, lower payments, or access equity.
+
+**Seller Carry Back**
+: Owner-provided financing where the seller acts as the bank, holding the note and collecting payments. Also called seller financing or owner will carry (OWC).
+
+**Seller Concession**
+: A contribution from the seller toward the buyer's closing costs or repairs, reducing the buyer's out-of-pocket expenses at closing.
+
+**Seller Disclosure**
+: A seller's required statement of known property defects, issues, and material facts that could affect a buyer's decision. Includes structural issues, pest problems, property line disputes, and nearby nuisances.
+
+**Settlement**
+: The final stage of a real estate transaction when the contract closes, ownership transfers, and all parties are paid. Also called "closing."
+
+**Short-Term Rentals (STRs)**
+: Properties rented in short increments rather than long-term leases. Includes vacation rentals listed on Airbnb, VRBO, and HomeAway.
+
+**Square Footage**
+: The livable area of a property measured between interior walls. Some measurements use exterior walls, which produces a larger number.
+
+**Subdivision**
+: A plot of land divided into two or more parcels, commonly used in residential development.
+
+**Tax Assessed Value**
+: The dollar value assigned to a property by a tax assessor to determine applicable property taxes. Often differs from market value.
+
+**Title**
+: The legal right to ownership of real estate. Title insurance protects against claims or liens discovered after purchase.
+
+**Title Search**
+: An examination of public records to trace the history of a property's ownership, sales, and any liens or encumbrances. Required before issuing title insurance.
+
+**Vacant**
+: A residential property identified by the US Postal Service as uninhabited (mail delivery has been suspended). Vacant properties are prime targets for wholesalers.
+
+**Virtual Assistant**
+: A remote third party who helps manage business operations. In wholesaling, VAs often handle initial outreach, data entry, and follow-up calls.
+
+**Walkthrough**
+: A final inspection of a property before closing to confirm the seller has made agreed-upon repairs and the property is in the expected condition.
+
+**Warranty**
+: A home warranty covering the cost of maintenance and repairs for appliances or systems in the home, typically for the first year after purchase.
+
+---
+
+### **Outbound Marketing Terms**
+
+**Opt-In**
+: A requirement that customers or potential customers must have subscribed to receive communications. Ensures compliance with anti-spam and telemarketing regulations.
+
+**Outbound Calling Campaign**
+: A coordinated effort to call a list of leads using a power dialer to generate conversations and sales opportunities.
+
+**RVM (Ringless Voicemail)**
+: See entry under PropStream & Data Platform Terms above.
