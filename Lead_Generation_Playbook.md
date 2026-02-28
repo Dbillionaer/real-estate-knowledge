@@ -73,3 +73,96 @@ There is no single "best" way to find leads. A good marketing plan uses a mix of
         *   **Cost:** Can be more expensive per lead than other methods.
         *   **Lead Quality:** Lead quality can vary significantly between providers.
         *   **Competition:** Leads may be sold to multiple investors, creating competition.
+
+---
+
+## 2.3 Lead Qualification: Prioritizing Your Pipeline
+
+Not all leads are equal. Before spending time on a call, score each lead by motivation level:
+
+| Score | Criteria | Action |
+|-------|----------|--------|
+| 🔴 **High** | Tax delinquent + absentee + vacant (list-stacked 3+) | Call same day |
+| 🟡 **Medium** | 2 distress indicators, or 90+ days on market | Call within 48 hours |
+| 🟢 **Standard** | Single distress indicator | Call within 1 week |
+
+**Automatic High-Priority Flags:**
+- Pre-foreclosure with <60 days to auction
+- Probate property (executor wants to liquidate)
+- Divorce filing on record
+- Property vacant 6+ months
+- Tax delinquent 2+ years
+
+---
+
+## 2.4 Follow-Up Cadence: The Contact Sequence
+
+Most deals close on the 5th–8th contact. The majority of wholesalers give up after 1–2 attempts. This is your competitive advantage.
+
+### Standard Follow-Up Sequence (Per Lead)
+
+| Day | Action | Notes |
+|-----|--------|-------|
+| **Day 1** | Phone call (attempt 1) | Use opening script, leave voicemail if no answer |
+| **Day 1** | Text message | "Hi [Name], I left you a voicemail about [Address]. I'm a local investor interested in buying. Call/text back when convenient." |
+| **Day 3** | Phone call (attempt 2) | Different time of day than Day 1 |
+| **Day 5** | Voicemail (scripted) | Use the voicemail scripts from the pitch library |
+| **Day 7** | Direct mail postcard | "I'm interested in buying your property at [Address]. Call me at [number]." |
+| **Day 10** | Phone call (attempt 3) | Reference the postcard |
+| **Day 14** | Text message | "Still interested in [Address] if you're open to discussing. No pressure." |
+| **Day 21** | Phone call (attempt 4) | Final attempt before moving to monthly |
+| **Monthly** | Phone call or mail | Keep in pipeline — motivated sellers often come back |
+
+### Voicemail Script (30 seconds)
+```
+"Hi [Name], this is [Your Name] calling about your property at [Address].
+I'm a local real estate investor and I'm interested in making you a cash offer.
+I can close quickly, pay all closing costs, and buy the property as-is.
+Please give me a call back at [number] when you get a chance.
+Again, this is [Your Name] at [number]. Thank you."
+```
+
+### Text Message Templates
+**Initial text:**
+```
+Hi [Name], I'm a local investor interested in buying [Address].
+I can close fast, pay cash, no repairs needed. Interested? - [Your Name] [number]
+```
+
+**Follow-up text (Day 14):**
+```
+Hi [Name], still interested in [Address] if you're open to a conversation.
+No pressure, just want to see if I can help. - [Your Name]
+```
+
+### When to Remove a Lead from Active Follow-Up
+- Seller explicitly says "not interested, don't call again" → Remove immediately, add to DNC
+- Property sold (verify on MLS) → Archive
+- After 6 months of no response → Move to quarterly follow-up list
+
+---
+
+## 2.5 Skip Tracing Workflow
+
+1. **Export your lead list** from PropStream/BatchLeads as CSV
+2. **Batch skip trace** the entire list (BatchSkipTracing, PropStream, or REISkip)
+3. **Import results** back into your CRM/dialer
+4. **DNC scrub** before dialing — never call numbers on the Do Not Call registry
+5. **Prioritize** numbers ranked "high confidence" by the skip trace service
+6. **Handle bad numbers**: If a number is disconnected or wrong person, note it and try the next number for that property
+
+**Skip Trace Quality Check:**
+- Good skip trace services return 3–5 phone numbers per record
+- Expect 60–70% connection rate on "high confidence" numbers
+- If connection rate drops below 40%, try a different skip trace provider
+
+---
+
+## 2.6 Additional Lead Sources (Often Overlooked)
+
+*   **Probate Court Records:** File a public records request with your county probate court for recent estate filings. Properties in probate are often sold below market by executors who want to liquidate quickly.
+*   **Code Violation Lists:** Request from your city's building department. Properties with open code violations often have overwhelmed owners.
+*   **Pre-Foreclosure Filings:** Available at the county recorder's office. These are the most time-sensitive leads — the owner has a hard deadline.
+*   **Expired MLS Listings:** Properties that were listed but didn't sell. The seller tried the traditional route and failed — they may now be open to creative offers.
+*   **FSBO (For Sale by Owner):** Sellers who listed without an agent are often more open to creative terms since there's no agent to complicate the deal.
+*   **Networking:** Real estate investor meetups (REIA), Facebook groups, and BiggerPockets forums. Other investors often have leads they can't work and will refer them for a fee.

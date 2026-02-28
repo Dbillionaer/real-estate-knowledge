@@ -86,3 +86,127 @@ What happens when you have a deal under contract, but you can't find a buyer on 
 *   **Be transparent.** Both partners should be clear about their roles and responsibilities.
 
 JVing is a powerful tool. It allows you to tap into other wholesalers' buyers lists, sell more deals, and build relationships in the investor community. By mastering these disposition strategies, you will build a reputation as a reliable source of profitable deals, ensuring your long-term success in the wholesaling business.
+
+---
+
+## 7.5 Buyer Qualification: Vetting Before You Send Deal Details
+
+Never send full deal details (address, price, photos) to an unqualified buyer. Unqualified buyers waste your time and can tie up your deal.
+
+### Buyer Qualification Questions
+
+Ask these before sending deal details:
+
+1. **"What type of properties are you buying right now?"** — Confirms they're active
+2. **"What's your typical price range?"** — Confirms the deal fits their criteria
+3. **"Are you buying cash or using financing?"** — Cash buyers close faster and more reliably
+4. **"How quickly can you close?"** — You need to know if they can meet your contract deadline
+5. **"Can you send me proof of funds?"** — Non-negotiable for serious buyers
+
+### Proof of Funds (POF) Requirements
+
+| Buyer Type | Acceptable POF |
+|-----------|---------------|
+| Cash buyer | Bank statement showing liquid funds ≥ purchase price |
+| Hard money buyer | Pre-approval letter from hard money lender |
+| Private money buyer | Letter from private lender confirming available funds |
+
+**POF Red Flags:**
+- Refuses to provide POF ("I'll show you at closing")
+- POF is from a business account with no clear connection to the buyer
+- POF shows funds that are clearly insufficient for the deal
+- POF is dated more than 30 days ago
+
+### Buyer Tier System
+
+Maintain a tiered buyers list:
+
+| Tier | Criteria | Priority |
+|------|----------|----------|
+| **VIP** | Closed 2+ deals with you, POF verified, responds within 2 hours | First call, 24-hour exclusive window |
+| **Active** | Closed 1 deal or bought from another wholesaler recently, POF verified | Second wave, 48-hour window |
+| **Prospect** | New buyer, POF not yet verified | General blast after VIP/Active |
+| **Inactive** | Haven't bought in 6+ months | Last resort or remove from list |
+
+---
+
+## 7.6 Deal Blast Templates
+
+### WhatsApp / Telegram Blast (Short Format)
+
+```
+🏠 NEW DEAL — [CITY, STATE]
+
+📍 [ADDRESS]
+🛏️ [BEDS]/[BATHS] | [SQFT] sqft | Built [YEAR]
+
+💰 NUMBERS:
+• Your Price: $[PURCHASE + ASSIGNMENT FEE]
+• ARV: $[ARV]
+• Repairs: ~$[REPAIRS]
+• Profit Potential: $[ARV - TOTAL IN - REPAIRS]
+
+📸 Photos: [link]
+📋 Full analysis: Reply "INTERESTED"
+
+⚡ First come, first served. Closing [DATE].
+```
+
+### Email Blast (Full Format)
+
+**Subject:** 🏠 New Deal: [ADDRESS] | ARV $[X] | Asking $[X]
+
+```
+Hey [First Name],
+
+I have a new deal that fits your buy box. Here are the numbers:
+
+PROPERTY: [Full Address]
+BEDS/BATHS: [X/X]
+SQUARE FEET: [X,XXX]
+YEAR BUILT: [XXXX]
+
+THE NUMBERS:
+• Purchase Price (your total in): $[X]
+• ARV (After Repair Value): $[X]
+• Estimated Repairs: $[X]
+• Potential Profit: $[X]
+
+WHY THIS DEAL:
+• [Key selling point 1 — e.g., "Below market by $40K"]
+• [Key selling point 2 — e.g., "Comparable sold for $X last month"]
+• [Key selling point 3 — e.g., "Tenant in place at $X/month"]
+
+PHOTOS: [Link to Google Drive or Dropbox folder]
+
+CLOSING: [Target date — e.g., "Can close in 21 days"]
+
+To claim this deal, reply to this email or text me at [number].
+First buyer with POF gets it.
+
+[Your Name]
+[Phone]
+```
+
+### Urgency Techniques
+
+- **"First come, first served"** — Creates competition among buyers
+- **"I have 3 buyers looking at this"** — Social proof (only use if true)
+- **"Closing deadline is [DATE]"** — Hard deadline creates urgency
+- **"Price drops $5K every 48 hours until sold"** — Escalating urgency (use carefully)
+- **"VIP buyers get 24-hour exclusive access"** — Rewards your best buyers
+
+---
+
+## 7.7 When a Buyer Backs Out After Signing
+
+If a buyer signs the Assignment Agreement and then backs out:
+
+1. **Check the Assignment Agreement** — Is their EMD forfeitable?
+2. **Determine the reason** — Inspection issue? Financing fell through? Cold feet?
+3. **Negotiate** — Can you reduce the price to keep the deal alive?
+4. **Activate backup buyer** — Always have a backup buyer lined up before closing
+5. **Re-blast the deal** — You still have the property under contract; find a new buyer
+6. **Document everything** — If you need to pursue the forfeited EMD, you'll need a paper trail
+
+**Prevention:** Always collect a non-refundable assignment fee deposit ($1,000–$2,500) when the Assignment Agreement is signed. This filters out non-serious buyers.

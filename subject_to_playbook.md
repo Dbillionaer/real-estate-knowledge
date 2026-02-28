@@ -346,3 +346,48 @@ Call me back to discuss. [Number]."
 ---
 
 *This subject-to playbook provides comprehensive training for mortgage takeover strategies, with proven scripts, templates, and strategies from recorded calls and email campaigns. For trust-based alternatives and advanced legal structures, refer to the trust acquisition playbook.*
+
+---
+
+## ⚠️ STATE-SPECIFIC LEGAL NOTES
+
+**Subject-To laws vary significantly by state. Always consult a local real estate attorney before your first deal.**
+
+| State | Key Considerations |
+|-------|-------------------|
+| **Texas** | Requires specific disclosure language in contracts (Property Code §5.016). Seller must receive written disclosure that the mortgage remains in their name. Failure to disclose is a criminal offense. |
+| **California** | Due-on-sale clauses are strictly enforced. Trust structures (using Garn-St. Germain) are the preferred approach. |
+| **Florida** | Generally favorable for subject-to. No specific disclosure statute, but best practice is full written disclosure. |
+| **Georgia** | Common subject-to state. Attorneys typically handle closings (attorney state). |
+| **North Carolina** | Attorney state — all closings require a licensed attorney. |
+| **New York** | Complex regulatory environment. Consult an attorney before any creative finance deal. |
+| **All States** | The Garn-St. Germain Act (federal) protects transfers into trusts from due-on-sale enforcement. |
+
+**Minimum Disclosure Best Practice (All States):**
+Always provide the seller with a written disclosure stating:
+1. The mortgage will remain in their name
+2. Their credit could be affected if payments are missed
+3. The lender could call the loan due (due-on-sale risk)
+4. They should consult an attorney before signing
+
+---
+
+## 🚫 WHEN TO WALK AWAY FROM A SUBJECT-TO DEAL
+
+Not every subject-to opportunity is worth pursuing. Walk away when:
+
+| Situation | Why It's a Problem |
+|-----------|-------------------|
+| **Seller is in active bankruptcy** | Automatic stay prevents property transfer |
+| **Loan is already in default/foreclosure** | Lender may accelerate immediately upon transfer |
+| **Loan balance > 90% of ARV** | No equity cushion — any market decline puts you underwater |
+| **Seller has multiple mortgages** | Second/third lien holders complicate the deal significantly |
+| **Seller is hostile or uncooperative** | They can call the lender and report the transfer |
+| **Property has major title issues** | Clouded title, IRS liens, or active lawsuits |
+| **Seller doesn't understand the deal** | Uninformed sellers become hostile sellers later |
+| **Monthly payment > market rent** | Negative cash flow from day one — unsustainable |
+| **HOA has large delinquent balance** | HOA liens take priority and can foreclose independently |
+| **Property in flood zone without insurance** | Insurance costs may make the deal unworkable |
+
+**The "Seller Remorse" Test:**
+Before closing, ask yourself: "If this seller calls their lender tomorrow and tells them about the transfer, am I prepared for the consequences?" If the answer is no, reconsider the deal structure.

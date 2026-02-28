@@ -315,3 +315,23 @@ returns than any bank. Call me back to learn how seller financing works. [Number
 ---
 
 *This seller finance playbook provides comprehensive training for creative financing strategies, with proven scripts, templates, and strategies from recorded calls and email campaigns. For trust-based high-value transactions, refer to the trust acquisition playbook.*
+
+---
+
+## 🚫 WHEN TO WALK AWAY FROM A SELLER FINANCE DEAL
+
+| Situation | Why It's a Problem |
+|-----------|-------------------|
+| **Seller has an existing mortgage they can't pay off** | The existing lender must be paid at closing — seller finance only works on free-and-clear or low-balance properties |
+| **Seller needs all cash immediately** | Seller finance requires patience — if they need cash now, offer a hybrid or cash deal instead |
+| **Seller's asking price is above ARV** | You can't pay above market value even on terms — the numbers must work |
+| **Monthly payment exceeds market rent** | Negative cash flow from day one — the deal doesn't work as a rental |
+| **Seller is in active bankruptcy** | Cannot transfer property or create new liens during bankruptcy |
+| **Seller has IRS tax liens** | IRS liens take priority over your promissory note — must be resolved first |
+| **Seller refuses to use an attorney or title company** | Seller finance without proper documentation is unenforceable |
+| **Seller wants a non-assignable note** | You need to be able to sell or refinance the property eventually |
+| **Balloon payment is too short** | A 1-2 year balloon doesn't give you enough time to stabilize and refinance |
+| **Interest rate demand is above market** | If the seller wants 10%+ interest, a bank loan may be cheaper |
+
+**The "Total Return Test":**
+Before making a seller finance offer, calculate the total amount you'll pay over the life of the loan (principal + interest). If the total return to the seller is less than what they'd get from a cash sale after taxes, they have no incentive to do seller finance. The deal only works if you can show them they'll receive MORE total money through seller finance than through a cash sale.

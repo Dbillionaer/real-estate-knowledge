@@ -363,6 +363,91 @@ Property Assessment → $500K+ Value
 
 This comprehensive decision tree integrates all proven strategies, success metrics, and tactical approaches from the complete real estate acquisition system. Use it as your primary navigation tool for complex scenarios and strategy selection.
 
-**Last Updated**: October 2025
-**Source Materials**: All individual playbooks, 50+ recorded calls, email template libraries
+**Last Updated**: February 2026
+**Source Materials**: All individual playbooks, 120+ recorded calls, email template libraries
 **Success Rate**: 45-85% across all strategies when properly implemented
+
+---
+
+## 🔄 **STRATEGY REJECTED — RE-ROUTING LOGIC**
+
+When your primary strategy is rejected, use this re-routing guide:
+
+### If Cash Offer is Rejected
+```
+Seller rejects cash offer
+    ↓
+[Why did they reject?]
+├── "Price too low" → Try Seller Finance (offer above asking on terms)
+├── "Need more time to move" → Add leaseback to cash offer
+├── "Don't want to pay capital gains" → Pivot to Seller Finance (installment sale)
+└── "Want to keep getting income" → Pivot to Seller Finance (monthly payments)
+```
+*Example: [[Seller Finance Pitch 31 - Pivoting to Seller Finance]]*
+
+### If Subject-To is Rejected
+```
+Seller rejects subject-to
+    ↓
+[Why did they reject?]
+├── "Loan stays in my name" → Pivot to Trust Acquisition (removes from name)
+├── "Need cash now" → Offer cash + subject-to hybrid (small cash down)
+├── "Don't understand it" → Use ELI5 approach, or pivot to cash
+└── "My lender said no" → Trust Acquisition (Garn-St. Germain protection)
+```
+*Example: [[Trust Acquisition Pitch 3 - Playing Dumb About Subject To]]*
+
+### If Seller Finance is Rejected
+```
+Seller rejects seller finance
+    ↓
+[Why did they reject?]
+├── "Need all cash now" → Hybrid Deal (cash down + seller finance)
+├── "Interest rate too low" → Negotiate rate up, show total return math
+├── "Balloon too short" → Offer longer balloon (10-year vs 5-year)
+├── "Down payment too low" → Increase down payment, reduce monthly
+└── "Don't trust you'll pay" → Offer performance mortgage, quitclaim deed protection
+```
+*Examples: [[Seller Finance Pitch 19 - Impossible Terms to Best Terms]], [[Seller Finance Pitch 29 - Cash & Seller Finance]]*
+
+### If Trust Acquisition is Rejected
+```
+Seller rejects trust acquisition
+    ↓
+[Why did they reject?]
+├── "Too complicated" → Simplify to subject-to or seller finance
+├── "Attorney advised against" → Respect it, pivot to seller finance
+├── "Need cash" → Hybrid deal with cash component
+└── "Don't want to be in a trust" → Subject-to with performance mortgage
+```
+
+---
+
+## 🔀 **HYBRID DEAL DECISION PATH**
+
+Use a Hybrid Deal (cash + seller finance) when:
+- Seller needs some cash NOW but also wants ongoing income
+- Pure seller finance is rejected because "I need cash"
+- Pure cash offer is rejected because "I want more than you're offering"
+- AirBNB/STR operator who needs income replacement
+
+```
+Hybrid Deal Structure
+    ↓
+[How much cash does seller need?]
+├── 10-20% of value → Standard hybrid (10-20% cash down + seller finance balance)
+├── 30-50% of value → Large down hybrid (cash covers immediate need + seller finance)
+└── 50%+ of value → Consider pure cash or hard money instead
+
+[What's the seller's primary motivation?]
+├── Income replacement → Match monthly payment to current rental/AirBNB income
+├── Tax deferral → Maximize seller finance portion (larger installment sale benefit)
+├── Immediate need → Maximize cash component
+└── Both → Negotiate the split
+```
+
+**Hybrid Deal Examples:**
+- [[Hybrid Pitch 1 - 1.85m Dollar AirBNB]] — Large cash down + seller finance to replace AirBNB income
+- [[Hybrid Pitch 2]] — Standard hybrid structure negotiation
+- [[Seller Finance Pitch 29 - Cash & Seller Finance]] — Pivoting from pure seller finance to hybrid
+- [[Hybrid - Restructuring Seller Finance to Hybrid]] — Converting a rejected seller finance offer to hybrid

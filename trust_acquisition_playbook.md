@@ -300,3 +300,43 @@ Call me back to learn more. [Number]."
 ---
 
 *This trust acquisition playbook provides comprehensive training for sophisticated property transfer strategies, with proven scripts, templates, and strategies from recorded calls and email campaigns. For alternative high-value approaches, refer to the seller finance playbook.*
+
+---
+
+## ⚠️ STATE-SPECIFIC LEGAL NOTES
+
+**Trust acquisition laws vary by state. Always use a local real estate attorney to set up the trust and handle the deed transfer.**
+
+| State | Key Considerations |
+|-------|-------------------|
+| **All States** | The Garn-St. Germain Act (12 U.S.C. §1701j-3) protects transfers into living trusts from due-on-sale enforcement when the borrower is or becomes a beneficiary. This is the federal legal foundation for trust acquisitions. |
+| **Texas** | Land trusts are not specifically recognized by statute, but living trusts are valid. Use an attorney familiar with Texas trust law. |
+| **Illinois** | Illinois Land Trust is a well-established legal structure with strong statutory support. One of the best states for trust acquisitions. |
+| **Florida** | Florida Land Trust statute (§689.071) provides strong legal framework. Widely used by investors. |
+| **California** | Revocable living trusts are common. Due-on-sale enforcement is more aggressive — trust structure is critical. |
+| **Attorney States** | In attorney states (GA, NC, SC, MA, NY, etc.), all closings require a licensed attorney. The attorney sets up the trust and handles the deed transfer. |
+
+**Critical Legal Requirements:**
+1. The trust must be a **revocable living trust** (not an irrevocable trust) for Garn-St. Germain protection
+2. The **original borrower must be or become a beneficiary** of the trust
+3. The property must be the borrower's **principal residence** for full Garn-St. Germain protection (investment properties have less protection)
+4. Always use a **licensed real estate attorney** to draft the trust documents and deed
+
+---
+
+## 🚫 WHEN TO WALK AWAY FROM A TRUST ACQUISITION DEAL
+
+| Situation | Why It's a Problem |
+|-----------|-------------------|
+| **Seller is in active bankruptcy** | Automatic stay prevents any property transfer |
+| **Property is not the seller's primary residence** | Garn-St. Germain protection is weaker for investment properties |
+| **Lender has already issued a due-on-sale notice** | The lender is already aware and may accelerate |
+| **Seller doesn't understand the trust structure** | Uninformed sellers can unwind the deal or cause legal problems |
+| **Title has unresolved liens or disputes** | Trust structure doesn't cure title defects |
+| **Seller is under duress or cognitive impairment** | Creates legal and ethical liability |
+| **Property has negative equity** | Trust structure doesn't solve an underwater mortgage |
+| **Seller's attorney advises against it** | Respect the legal advice — find another deal |
+| **You can't find a local attorney familiar with trust acquisitions** | Don't proceed without proper legal support |
+
+**The "Sophistication Test":**
+Trust acquisitions work best with sophisticated sellers who understand complex financial structures. If you have to explain the concept more than twice and the seller still doesn't understand, consider a simpler structure (seller finance or cash offer) or walk away. An uninformed seller is a liability.

@@ -34,9 +34,28 @@ This enhanced checklist includes both standard closings and advanced creative fi
 
 ---
 
+### **⚠️ WIRE FRAUD PREVENTION — READ BEFORE EVERY CLOSING**
+
+Wire fraud is the #1 real estate scam. Criminals intercept email communications and send fake wire instructions. One wrong wire can cost you or your buyer tens of thousands of dollars — and it's nearly impossible to recover.
+
+**Mandatory Protocol:**
+1. **Never trust wire instructions sent via email** — even if they appear to come from the title company
+2. **Always call the title company directly** at a phone number you looked up independently (not from the email)
+3. **Verbally confirm** the account number, routing number, and bank name before wiring
+4. **If wire instructions change at any point** — treat it as fraud until proven otherwise
+5. **Send a small test wire** ($10) first on large transactions, confirm receipt before sending the balance
+
+**Red Flags:**
+- Wire instructions arrive via email at the last minute
+- Instructions are different from what was previously discussed
+- Pressure to wire immediately without time to verify
+- Email address is slightly different from the title company's normal address
+
+---
+
 ### **Phase 3: Closing Day**
 
-*   [ ] **The Buyer Wires Funds:** Your cash buyer will wire the remaining balance of the purchase price to the title company.
+*   [ ] **The Buyer Wires Funds:** Your cash buyer will wire the remaining balance of the purchase price to the title company. **Verify wire instructions by phone before sending** (see Wire Fraud Prevention above).
 *   [ ] **The Seller Signs Closing Documents:** The seller will sign the deed and other documents to transfer ownership.
 *   [ ] **The Buyer Signs Closing Documents:** The buyer will sign their side of the paperwork.
 *   [ ] **Creative Financing Document Execution:** For subject-to, trust, or seller finance deals, ensure all legal documents are properly signed and notarized.
@@ -67,3 +86,53 @@ This enhanced checklist includes both standard closings and advanced creative fi
 *   [ ] **Document Filing:** File all closing documents for your records.
 *   [ ] **Follow-up Communication:** Check in with all parties 1 week after closing.
 *   [ ] **Relationship Building:** Maintain contact for future opportunities.
+*   [ ] **Write Agent Lesson:** Document what worked, what didn't, and key objections handled in `agent-lessons/YYYY-MM-DD-[address].md`
+
+---
+
+### **📅 Standard 21-Day Closing Timeline**
+
+| Day | Milestone | Who |
+|-----|-----------|-----|
+| **0** | Purchase & Sale Agreement signed | Wholesaler + Seller |
+| **1** | Open escrow, send contracts to title company | Wholesaler |
+| **1–2** | Wholesaler's EMD deposited | Wholesaler |
+| **2–3** | Buyer's EMD deposited | End Buyer |
+| **3–5** | Title search ordered | Title Company |
+| **5–7** | Property inspection (if applicable) | End Buyer |
+| **7** | Inspection deadline | End Buyer |
+| **10** | Title commitment received | Title Company |
+| **10–12** | Review title commitment, resolve any issues | Wholesaler + Title |
+| **14** | Assignment Agreement signed | Wholesaler + End Buyer |
+| **14** | Assignment fee deposited in escrow | End Buyer |
+| **18–20** | Final walkthrough | End Buyer |
+| **21** | Closing day — funds wired, deed recorded | All Parties |
+
+---
+
+### **🚨 If the Deal Falls Apart**
+
+Deals fall through. Here's the protocol:
+
+**If the Buyer Backs Out:**
+1. Check the Assignment Agreement for default provisions
+2. Determine if the buyer's EMD is forfeitable (usually yes if they back out without cause)
+3. Activate your backup buyer immediately
+4. If no backup buyer, re-market the deal — you still have the property under contract
+5. If you can't find a new buyer before your contract expires, use your inspection contingency to cancel
+
+**If the Seller Backs Out:**
+1. Review the Purchase & Sale Agreement for seller default remedies
+2. Options: (a) demand specific performance, (b) sue for damages, (c) accept the situation and move on
+3. In practice, most wholesalers accept the situation — suing a seller is expensive and damages your reputation
+4. Document everything in writing
+
+**If Title Issues Are Found:**
+1. Determine if the issue is workable (lien payoff at closing) or a deal-killer (active bankruptcy, clouded title)
+2. For workable issues: negotiate with seller to resolve at closing
+3. For deal-killers: cancel the contract using your inspection contingency, recover your EMD
+
+**Releasing Earnest Money:**
+- Both parties must sign a mutual release for the title company to disburse EMD
+- If there's a dispute, the title company holds the funds until resolved
+- Most disputes settle without litigation — be reasonable
