@@ -5,7 +5,7 @@ category: Reference
 tags: [#reference, #glossary, #definitions]
 related_playbooks: [[[Foundations_of_Wholesaling_Playbook]], [[deal_type_playbook]]]
 last_updated: 2026-02-28
-term_count: 200+
+term_count: 230+
 sections:
   - Core Wholesaling Terms
   - Finance and Valuation Terms
@@ -62,7 +62,16 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 : A property owner with a compelling, often urgent, reason to sell their property, making them more likely to accept a below-market or creatively structured offer.
 
 **Maximum Allowable Offer (MAO)**
-: The highest price a wholesaler can offer a seller while still leaving enough profit margin for the end buyer. The standard formula is: `(ARV * 70%) - Repair Costs = MAO`.
+: The highest price a wholesaler can offer a seller while still leaving enough profit margin for the end buyer. The standard formula is: `(ARV × 70%) - Repair Costs = MAO`. The 70% rule accounts for the end buyer's profit, holding costs, and the wholesaler's assignment fee. For seller finance deals, the MAO calculation changes because the buyer is paying over time — a higher purchase price can be justified when the seller is acting as the bank. *See also: ARV, Assignment Fee, Seller Financing.*
+
+**Daisy Chain**
+: A transaction where a wholesaler assigns their contract to a second wholesaler, who then assigns it to the end buyer. Each wholesaler takes a portion of the spread. Daisy chains are legal but can create complications if the original contract prohibits assignment or if the chain adds too many middlemen, reducing the end buyer's profit margin. *See also: Assignment of Contract, Assignment Fee.*
+
+**Transactional Funding**
+: Short-term bridge financing (typically 1-7 days) used to fund the A-B leg of a double close. The transactional funder provides the capital to purchase the property from the seller, which is immediately repaid when the B-C transaction closes with the end buyer. Costs typically range from 1-3% of the purchase price. Required when a contract is not assignable or when the wholesaler wants to conceal the assignment fee. *See also: Double Close.*
+
+**Proof of Funds (POF)**
+: A document demonstrating a buyer has the financial ability to complete a purchase. For cash buyers, this is typically a bank statement or letter from a financial institution showing sufficient liquid funds. Wholesalers should always request POF before sending deal details to a buyer. When presenting to sellers, wholesalers can use their own POF or a transactional funder's POF letter. *See also: Cash Buyer, Transactional Funding.*
 
 ---
 
@@ -100,10 +109,10 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 : A written promise to pay a specified sum of money to a specified person at a specified date or on demand. This is the core document in a seller financing transaction.
 
 **Seller Financing (or Owner Financing)**
-: A transaction in which the property owner finances the purchase directly with the buyer, eliminating the need for a traditional bank loan.
+: A transaction in which the property owner finances the purchase directly with the buyer, eliminating the need for a traditional bank loan. The seller acts as the lender, holding a promissory note and receiving monthly payments (principal + interest) from the buyer. Key benefits for sellers: (1) installment sale tax treatment spreads capital gains over the payment period, (2) interest income provides ongoing cash flow, (3) higher total sale price than cash. Key benefits for buyers: (1) no bank qualifying, (2) flexible terms, (3) potentially lower down payment. *See also: Promissory Note, Installment Sale, Balloon Payment, Hybrid Deal.*
 
 **Subject To**
-: A creative financing technique where a buyer takes title to a property "subject to" the existing mortgage. The buyer takes over the seller's mortgage payments, but the original loan remains in the seller's name.
+: A creative financing technique where a buyer takes title to a property "subject to" the existing mortgage. The buyer takes over the seller's mortgage payments, but the original loan remains in the seller's name. The primary risk is the due-on-sale clause — if the lender discovers the transfer, they can demand full repayment. In practice, lenders rarely call loans current on payments. The Garn-St. Germain Act provides some protection when properties are transferred into trusts. *See also: Due on Sale Clause, Garn-St. Germain Act, Trust Acquisition, Performance Mortgage.*
 
 ---
 
@@ -129,7 +138,19 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 ### **Advanced Creative Financing Terms**
 
 **1031 Exchange (Tax-Deferred Exchange)**
-: A tax strategy that allows real estate investors to defer capital gains taxes by reinvesting proceeds from a property sale into a similar property within specified timeframes. Requires identification of replacement property within 45 days and closing within 180 days.
+: A tax strategy that allows real estate investors to defer capital gains taxes by reinvesting proceeds from a property sale into a "like-kind" replacement property. Key rules: (1) identify replacement property within **45 days** of closing the relinquished property, (2) close on the replacement property within **180 days**. The exchange must be facilitated by a Qualified Intermediary (QI) who holds the proceeds between transactions. Sellers who mention "1031 exchange" are highly motivated to close on a specific timeline — this is a powerful negotiation lever. *See also: Installment Sale, Capital Gains.*
+
+**Beneficiary**
+: The person or entity who benefits from a trust. In a land trust or living trust used for real estate, the beneficiary holds the equitable interest in the property while the trustee holds legal title. In trust acquisition deals, the investor typically becomes the beneficiary of the trust while the seller's name may remain on the trust initially. Understanding who the beneficiary is determines who controls the property. *See also: Trust Acquisition, Land Trust, Trustee.*
+
+**Deed in Trust**
+: A deed that transfers property into a trust, naming the trustee as the legal title holder. Distinct from a Land Trust (which is the trust structure itself) — the Deed in Trust is the actual document used to transfer the property into the trust. Used in trust acquisition strategies to avoid triggering the due-on-sale clause. *See also: Land Trust, Trust Acquisition, Garn-St. Germain Act.*
+
+**Installment Sale**
+: A tax treatment for real estate sales where the seller receives payments over multiple years rather than a lump sum. Under IRS rules, the seller only pays capital gains tax on the portion of the sale price received each year, spreading the tax burden over the payment period. This is the primary tax benefit that makes seller financing attractive to sellers with significant equity. Example: A seller with $200K in equity who sells on installment terms pays capital gains on $40K/year (over 5 years) rather than $200K all at once, potentially saving tens of thousands in taxes. *See also: Seller Financing, Balloon Payment, 1031 Exchange.*
+
+**Morby Method**
+: A creative financing strategy developed by Pace Morby that combines Subject-To (taking over the existing mortgage) with Seller Financing (the seller carries a second note for their equity). The buyer takes over the existing mortgage payments AND makes additional monthly payments to the seller for their equity position. This allows buyers to acquire properties with little to no money down while giving sellers ongoing income. Example: Property worth $300K with $200K mortgage. Buyer takes over the $200K mortgage (Subject-To) and pays the seller $500/month for their $100K equity over 10 years. *See also: Subject To, Seller Financing, Hybrid Deal.*
 
 **Balloon Payment**
 : A large lump sum payment due at the end of a loan term, typically used in seller financing arrangements. Common terms are 5-10 years with balloon payments allowing for property appreciation and refinancing.
@@ -161,9 +182,6 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 **PITI (Principal, Interest, Taxes, Insurance)**
 : The complete monthly housing expense including mortgage principal and interest, property taxes, and insurance premiums. Critical calculation for cash flow analysis in rental properties.
 
-**Promissory Note**
-: A written promise to pay a specified sum of money to a specified person at a specified date or on demand. This is the core document in a seller financing transaction.
-
 **Section 8 Voucher**
 : Government housing assistance program that provides rental subsidies to low-income tenants. Creates reliable rental income for investors as payments are government-guaranteed.
 
@@ -180,9 +198,6 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 
 ### **Real Estate Investment Metrics**
 
-**Cap Rate (Capitalization Rate)**
-: A rate of return used to estimate the value of an income-producing property. It is calculated as: `Net Operating Income / Current Market Value`.
-
 **Cash Flow**
 : The net income generated by a property after all expenses and debt service payments. Positive cash flow is essential for profitable rental property investments.
 
@@ -194,9 +209,6 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 
 **Internal Rate of Return (IRR)**
 : A financial metric that calculates the annualized return on an investment, accounting for the time value of money. Used for complex multi-year cash flow projections.
-
-**Net Operating Income (NOI)**
-: The total income generated by a property after deducting all operating expenses (e.g., taxes, insurance, maintenance) but *before* deducting debt service (mortgage payments) or income taxes.
 
 **Return on Equity (ROE)**
 : A measure of profitability calculated as: `(Net Income / Shareholder's Equity) × 100`. Used to evaluate the efficiency of real estate investments.
@@ -258,6 +270,15 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 
 ### **Legal Structure Terms**
 
+**Abstract of Title**
+: A condensed written history of all recorded documents affecting a property's title, including deeds, mortgages, liens, judgments, and easements. Prepared by a title company or attorney as part of the title search process. Provides a complete chain of ownership and encumbrances. *See also: Chain of Title, Title Search.*
+
+**Chain of Title**
+: The historical sequence of all property ownership transfers from the original owner to the current owner. A clear chain of title shows an unbroken sequence of documented transfers. Gaps or irregularities in the chain (missing deeds, unresolved estates, forged documents) create title defects that must be resolved before a property can be sold with clear title. Title researchers trace the chain back 40-60 years in most states. *See also: Title Search, Clouded Title, Abstract of Title.*
+
+**Clouded Title**
+: A title with unresolved disputes, defects, or encumbrances that prevent a clean transfer of ownership. Common causes: unresolved liens, missing heirs in probate, forged deeds, boundary disputes, or undisclosed easements. A clouded title is a deal-killer until the cloud is resolved. *See also: Chain of Title, Lis Pendens, Marketable Title.*
+
 **Deed of Trust**
 : A legal document that grants a lender a security interest in a property as collateral for a loan. Used in many states as an alternative to traditional mortgages.
 
@@ -277,7 +298,10 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 : A deed that warrants the title only against defects that arose during the grantor's ownership. Provides limited protection compared to general warranty deeds.
 
 **Trustee**
-: The person or institution responsible for managing trust assets according to the trust document terms. In real estate trusts, often a title company or attorney.
+: The person or institution responsible for managing trust assets according to the trust document terms. In real estate trusts, often a title company or attorney. The trustee holds legal title to the property but acts on behalf of the beneficiary. *See also: Beneficiary, Land Trust, Trust Acquisition.*
+
+**Marketable Title**
+: A title that is free from reasonable doubt about its validity — one that a reasonable buyer would accept and a court would compel a buyer to accept. A marketable title does not need to be perfect, but it must be free from encumbrances that would significantly affect the property's value or use. Delivering marketable title is typically a seller's obligation in a purchase contract. *See also: Chain of Title, Clouded Title, Title Search.*
 
 ---
 
@@ -427,6 +451,18 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 **VoIP (Voice over Internet Protocol)**
 : Cloud-based calling technology that allows phone calls over the internet instead of traditional phone lines. Enables click-to-dial functionality, lower call costs, and flexible communication for real estate teams.
 
+**Batch Skip Tracing**
+: The process of skip tracing a large list of leads simultaneously (in bulk) rather than one at a time. Batch skip tracing services process hundreds or thousands of records at once, returning phone numbers, email addresses, and mailing addresses for each property owner. Significantly cheaper per record than individual skip tracing ($0.05-0.15/record vs $0.50+ individually). *See also: Skip Tracing, DNC Scrubbing.*
+
+**Driving for Dollars App**
+: A mobile application that streamlines the driving for dollars process by allowing investors to photograph and log distressed properties while driving, automatically capturing the address and initiating skip tracing. Popular apps include DealMachine, PropStream Mobile, and BatchLeads. These apps eliminate the need for manual note-taking and can automatically add properties to a CRM. *See also: Driving for Dollars, Skip Tracing.*
+
+**Equity Stripping**
+: A predatory practice where an investor convinces a distressed homeowner to transfer their property (often through a deed or trust) under false pretenses, stripping the owner of their equity. Illegal in most states and a violation of real estate ethics. Wholesalers must be aware of this practice to avoid inadvertently engaging in it and to recognize when sellers have been victimized. Legitimate creative finance deals always involve full disclosure and fair compensation. *See also: Trust Acquisition, Seller Financing.*
+
+**Propensity Score**
+: A data-driven score assigned to a property or owner that predicts the likelihood of selling or being motivated to sell. Calculated using machine learning algorithms that analyze factors like time of ownership, equity position, life events (divorce, death, job loss), and property condition. Higher propensity scores indicate more motivated sellers. Used by data platforms to prioritize lead lists. *See also: Predictive AI, List Stacking, Motivated Seller.*
+
 **Zombie Property**
 : A property currently in pre-foreclosure that is identified as vacant by the US Postal Service. The owner has often abandoned the property but the foreclosure process has not yet completed.
 
@@ -556,10 +592,22 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 : A financial institution (bank, credit union) that provides long-term loans with lower interest rates. Subject to Fannie Mae/Freddie Mac guidelines and federal regulations.
 
 **VA Loan**
-: A mortgage guaranteed by the US Department of Veterans Affairs, issued by private lenders to veterans, service members, and their spouses. Typically requires no down payment.
+: A mortgage guaranteed by the US Department of Veterans Affairs, issued by private lenders to veterans, service members, and their spouses. Typically requires no down payment and offers lower interest rates than conventional loans. VA loans have a due-on-sale clause, but VA loans can sometimes be assumed by qualified buyers. *See also: Loan Assumption, Due on Sale Clause.*
 
 **Variable Rate**
 : A mortgage interest rate that fluctuates based on a benchmark index. Payments change over time, unlike fixed-rate mortgages.
+
+**Bridge Loan**
+: Short-term financing (typically 6-24 months) used to bridge the gap between transactions — for example, when an investor needs to close on a new property before selling an existing one. Higher interest rates than permanent financing (8-12%+). Used by wholesalers for transactional funding and by fix-and-flip investors between purchase and refinance. *See also: Transactional Funding, Hard Money Lenders.*
+
+**DSCR Loan (Debt Service Coverage Ratio Loan)**
+: An investment property loan that qualifies based on the property's rental income rather than the borrower's personal income. The lender calculates whether the property's rent covers the mortgage payment (DSCR ≥ 1.0 typically required, 1.25 preferred). Increasingly popular with investors who have multiple properties or non-traditional income. No W-2s or tax returns required — just a lease or rent estimate. *See also: Debt Service Coverage Ratio (DSCR), Non-QM Loan.*
+
+**Non-QM Loan (Non-Qualified Mortgage)**
+: A mortgage that does not meet the Consumer Financial Protection Bureau's "qualified mortgage" standards. Designed for borrowers who don't fit traditional underwriting (self-employed, investors with multiple properties, foreign nationals). Includes DSCR loans, bank statement loans, and asset depletion loans. Higher rates than conventional loans but more flexible qualification. *See also: DSCR Loan, Portfolio Loan.*
+
+**Portfolio Loan**
+: A mortgage held by the originating lender rather than sold to Fannie Mae or Freddie Mac. Because the lender keeps the loan on their books, they can set their own underwriting standards — often more flexible for investors with multiple properties, unusual property types, or non-standard income. Community banks and credit unions are common portfolio lenders. *See also: Conventional Loan, Non-QM Loan.*
 
 ---
 
@@ -587,7 +635,7 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 : A contract provision allowing a buyer to automatically increase their offer by a predetermined amount above competing offers, up to a maximum price.
 
 **Fiduciary**
-: A person with a legal obligation to act in another party's best interest. Real estate agents in fiduciary relationships must prioritize their client's interests above their own.
+: A person with a legal obligation to act in another party's best interest, with duties of loyalty, care, and disclosure. Real estate agents in fiduciary relationships must prioritize their client's interests above their own and above the interests of any other party, including the other side of the transaction. A buyer's agent owes fiduciary duty to the buyer; a listing agent owes it to the seller. Wholesalers are NOT fiduciaries — they are principals in the transaction acting in their own interest. Understanding this distinction is important when working with agents who have fiduciary obligations to their clients. *See also: Buyer's Agent / Listing Agent.*
 
 **Foreclosure**
 : The legal process by which a lender recovers the balance of a loan from a defaulting borrower by forcing the sale of the collateral property.
@@ -632,7 +680,7 @@ A quick-reference guide for common and advanced terms in real estate wholesaling
 : The cancellation of a pre-foreclosure notice, typically due to loan payoff, loan modification, or other resolution.
 
 **Probate**
-: The legal process of administering a deceased person's estate, including transferring property title from the deceased to heirs or beneficiaries.
+: The legal process of administering a deceased person's estate, including validating the will, paying debts, and transferring property title from the deceased to heirs or beneficiaries. Probate properties are prime wholesale targets because: (1) heirs often want to liquidate quickly, (2) the property may be vacant and deteriorating, (3) multiple heirs may disagree, creating motivation to sell. Probate timelines vary by state (6 months to 2+ years). The executor or administrator of the estate has authority to sell the property, but may need court approval for below-market sales. *See also: Pre-Probate, Trust Sale, Motivated Seller.*
 
 **Solar Lien**
 : A lien placed on solar equipment for non-payment of the solar loan. Remains on the property until the loan is paid off. Buyers must either assume the loan or the seller must pay it off at closing.
