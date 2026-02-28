@@ -1,4 +1,35 @@
+---
+title: "Glossary of Real Estate Terms"
+type: reference
+category: Reference
+tags: [#reference, #glossary, #definitions]
+related_playbooks: [[[Foundations_of_Wholesaling_Playbook]], [[deal_type_playbook]]]
+last_updated: 2026-02-28
+term_count: 200+
+sections:
+  - Core Wholesaling Terms
+  - Finance and Valuation Terms
+  - Creative Financing and Advanced Terms
+  - Legal and Closing Terms
+  - Advanced Creative Financing Terms
+  - Real Estate Investment Metrics
+  - Advanced Negotiation Terms
+  - Property-Specific Terms
+  - Legal Structure Terms
+  - Market Analysis Terms
+  - Advanced Investment Strategies
+  - Negotiation Psychology Terms
+  - PropStream and Data Platform Terms
+  - Property Status and Transaction Terms
+  - Financing and Loan Terms
+  - Legal and Lien Terms
+  - Property and Market Terms
+  - Outbound Marketing Terms
+---
+
 # Glossary of Real Estate Terms
+
+> **For AI Agents**: Use `memory_search("definition [TERM]")` or `memory_get("Glossary_of_Real_Estate_Terms.md")` to look up any term. The glossary covers 200+ terms across wholesaling, creative finance, legal, data platforms, and negotiation.
 
 A quick-reference guide for common and advanced terms in real estate wholesaling and creative financing.
 

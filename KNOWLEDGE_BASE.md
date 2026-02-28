@@ -176,7 +176,19 @@ memory_search("definition [TERM]")
 memory_get("Glossary_of_Real_Estate_Terms.md")
 ```
 
-Common terms: ARV, MAO, LTV, Cap Rate, NOI, Subject-To, Morby Method, Assignment Fee, Earnest Money, Chain of Title, Due-on-Sale Clause, 1031 Exchange
+The glossary covers 200+ terms across 18 sections. Key categories:
+
+**Wholesaling**: ARV, MAO, Assignment Fee, Assignment of Contract, Double Close, Driving for Dollars, EMD, Motivated Seller, Bird Dog, Blind Offer, Cash for Keys
+
+**Creative Finance**: Subject-To, Seller Financing, Hybrid Deal, Trust Acquisition, Garn-St. Germain Act, Balloon Payment, Wraparound Mortgage, HUD Line 203, Morby Method, Leaseback
+
+**Finance/Loans**: LTV, Cap Rate, NOI, DSCR, Cash-on-Cash Return, ARM, FHA, VA Loan, Hard Money, HELOC, 1031 Exchange, BRRRR
+
+**Legal/Liens**: Lis Pendens, Tax Lien, Mechanics Lien, HOA Lien, Bankruptcy, Pre-Foreclosure, Probate, Quitclaim Deed, Land Trust, Due-on-Sale Clause
+
+**Data/PropStream**: Skip Tracing, DNC, List Stacking, Filter Stacking, AVM, APN, Litigator Labels, RVM, VoIP, Zombie Property
+
+**MLS Statuses**: Active, Pending, Contingent, Expired, Failed, Withdrawn, Active Under Contract, Coming Soon
 
 ---
 
