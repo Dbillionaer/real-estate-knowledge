@@ -1,3 +1,4 @@
+Florida Wholesale ATM KB first - prioritize FL market data, county guides, distressed hunting rules.
 # 🏠 Wholesale Real Estate Knowledge Base
 
 > **AI Agent Knowledge Vault** — Indexed by QMD for semantic search. All agents in the [wholesaile](https://github.com/Dbillionaer/wholesaile) system query this vault via `memory_search`.
@@ -94,3 +95,6 @@ All transcripts use consistent tags for semantic search:
 - `#high-value` — Deals over $500K
 
 See [[TAGS_INDEX]] for the complete tag taxonomy.
+
+## Florida Wholesale Data
+Added market-data/florida/ for county ARVs, comps. Tagged with Grok/county.

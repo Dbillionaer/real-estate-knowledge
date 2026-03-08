@@ -419,3 +419,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Add Grok/county tags
+parser.add_argument("--model", default="grok", help="LLM model tag")
+parser.add_argument("--county", help="County tag")
+
+if args.model:
+    metadata["model"] = args.model
+if args.county:
+    metadata["county"] = args.county
+    metadata["geography"] = "florida"
