@@ -16,3 +16,6 @@
 - Equity >30k, price <300k
 - Sources: BatchData, XLeads, Zillow price-reduced >30d
 - Filters: distressed, pre-foreclosure, FSBO, tax delinquent, probate
+
+## County Guides Integration
+See county-guides/hunting-rules.md for detailed filters per county group.
